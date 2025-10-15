@@ -8,7 +8,7 @@ from typing_extensions import List, TypedDict
 import dotenv
 from langchain.chat_models import init_chat_model
 from langchain_nvidia_ai_endpoints import NVIDIAEmbeddings
-
+from offline_data_fetch_store import query_offline
 
 dotenv.load_dotenv()
 
@@ -60,9 +60,13 @@ def generate(state: State):
     return {"answer": response.content}
 
 
+def outer(state: State):
+    context = query_offline(state['question'])
+    return {'context': context}
+
 # Compile application and test
-graph_builder = StateGraph(State).add_sequence([retrieve, generate])
-graph_builder.add_edge(START, "retrieve")
+graph_builder = StateGraph(State).add_sequence([outer, generate])
+graph_builder.add_edge(START, "outer")
 graph = graph_builder.compile()
-response = graph.invoke({"question": "How can I store apple"})
+response = graph.invoke({"question": "What is the best preservation method for poha?"})
 print(response["answer"])

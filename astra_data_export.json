@@ -1,0 +1,2890 @@
+[
+  {
+    "_id": "db70ca459ffa4b3ebd99bde851f6de50",
+    "content": "food_name: Cassava (Yuca)\nmoisture_content: Medium (60%)\nideal_temp: 7-10\u00b0C\npreservation_methods: Cool, dark, dry place\nshelf_life_days: 7-10\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Wax coated, Loose\nhumidity_sensitive: Yes (Very sensitive to drying and mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 358
+    }
+  },
+  {
+    "_id": "2bd1ff1582e849fe99218e7e7b3d76ff",
+    "content": "food_name: Nectarine\nmoisture_content: Very High (88%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, Ripen at room temp\nshelf_life_days: 3-5\ndietary_tag: Vegan, Gluten-Free, Stone Fruit\npackaging_type: Tray pack, Loose\nhumidity_sensitive: Yes (Sensitive to shriveling in low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 259
+    }
+  },
+  {
+    "_id": "f58898ac5faa4bd8a2043b1aed3531d9",
+    "content": "food_name: Parsley\nmoisture_content: Very High (88%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigerate, Stand in water\nshelf_life_days: 10-14\ndietary_tag: Vegan, Gluten-Free, Herb\npackaging_type: Bunch, Bag\nhumidity_sensitive: Yes (Wilts in low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 313
+    }
+  },
+  {
+    "_id": "4cff6ec5462a48cdb081dbf62cf2681e",
+    "content": "food_name: 72. Lamb Chops\nmoisture_content: High (65-70%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 3-5\ndietary_tag: Non-Veg, Red Meat\npackaging_type: Vacuum Seal, Butcher Paper\nhumidity_sensitive: No (Sensitive to air/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 72
+    }
+  },
+  {
+    "_id": "fef345103af048f3bb62478660093f35",
+    "content": "food_name: 58. Kachori\nmoisture_content: Low (10%)\nideal_temp: 18\u2218C\npreservation_methods: Deep Frying\nshelf_life_days: 3-5\ndietary_tag: Vegetarian, Fried Snack\npackaging_type: Air-tight container\nhumidity_sensitive: Yes (Becomes soggy if humid)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 162
+    }
+  },
+  {
+    "_id": "bd74f00de2c34c039f2c0292ca702e38",
+    "content": "food_name: 67. Upma\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling/Steaming\nshelf_life_days: 1-2\ndietary_tag: Vegan/Veg, Semolina\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 172
+    }
+  },
+  {
+    "_id": "4b1b51c3fdde41209c0da3028ef158b1",
+    "content": "food_name: 91. Fresh Omelette\nmoisture_content: High (70-75%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Cooking\nshelf_life_days: 1-2\ndietary_tag: Vegetarian, Cooked\npackaging_type: Sealed Container\nhumidity_sensitive: No (Spoils quickly once cooked)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 91
+    }
+  },
+  {
+    "_id": "a79f8d656b98419892b87731d0060ebb",
+    "content": "food_name: 43. Beetroot\nmoisture_content: High (87%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Root Cellaring\nshelf_life_days: 20-40\ndietary_tag: Vegan, Root\npackaging_type: Plastic Bag (low perforation)\nhumidity_sensitive: Yes (Requires high humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 42
+    }
+  },
+  {
+    "_id": "ff873c0f336046d5b562ac259c3e9d12",
+    "content": "food_name: 4. Kheer (Rice Pudding)\nmoisture_content: Very High (85%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Refrigeration\nshelf_life_days: 3-4\ndietary_tag: Vegetarian, Dairy\npackaging_type: Sealed Bowl\nhumidity_sensitive: No (Sensitive to temp/contamination)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 105
+    }
+  },
+  {
+    "_id": "71c4b29fc79e47bda159cd56fc3a68a2",
+    "content": "food_name: Durian\nmoisture_content: Medium (65%)\nideal_temp: 13-15\u00b0C\npreservation_methods: Refrigerate, Airtight container\nshelf_life_days: 2-5\ndietary_tag: Vegan, Gluten-Free, Tropical, High Fat\npackaging_type: Loose\nhumidity_sensitive: Yes (Loses moisture after being opened)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 270
+    }
+  },
+  {
+    "_id": "cb89e4034f6d42a5a85b80d654dbac70",
+    "content": "food_name: Jerusalem Artichoke\nmoisture_content: High (79%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigeration, Vented bag\nshelf_life_days: 10-14\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Vented bag\nhumidity_sensitive: Yes (Can shrivel quickly)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 352
+    }
+  },
+  {
+    "_id": "ab5efd395baf4de4ae8138256472cfad",
+    "content": "food_name: 7. Modak\nmoisture_content: Medium (40%)\nideal_temp: 4\u2218C\npreservation_methods: Steaming\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Starchy\npackaging_type: Sealed Container\nhumidity_sensitive: Yes (Hardens if left open)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 108
+    }
+  },
+  {
+    "_id": "6eeb4f7460bb4733ad1360e63c6e3bef",
+    "content": "food_name: Dill\nmoisture_content: Very High (86%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigerate in a bag\nshelf_life_days: 7-14\ndietary_tag: Vegan, Gluten-Free, Herb\npackaging_type: Bunch, Clamshell\nhumidity_sensitive: Yes (Very prone to wilting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 317
+    }
+  },
+  {
+    "_id": "c6d57bceaa5e477e81a7b8eab712845e",
+    "content": "food_name: 85. Clams (Live)\nmoisture_content: Extremely High (85-90%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration (in breathable bag), Icing\nshelf_life_days: 2-5\ndietary_tag: Non-Veg, Shellfish\npackaging_type: Mesh Bag (No sealing)\nhumidity_sensitive: Yes (Need high humidity but must breathe)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 85
+    }
+  },
+  {
+    "_id": "88ccc716c4cf47fbb7222826f9a8a822",
+    "content": "food_name: Celeriac\nmoisture_content: Very High (88%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigeration, High humidity\nshelf_life_days: 21-30\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Loose, Plastic bag\nhumidity_sensitive: Yes (Requires high humidity to stay firm)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 347
+    }
+  },
+  {
+    "_id": "cde3312ef51542dab1ca619187a68365",
+    "content": "food_name: 75. Fresh Oxtail\nmoisture_content: High (70%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 3-5\ndietary_tag: Non-Veg, Bone-in Meat\npackaging_type: Cling Wrap, Tray\nhumidity_sensitive: No (Sensitive to air/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 75
+    }
+  },
+  {
+    "_id": "a032bf2ee4a149a4b2f2e4676186bf0f",
+    "content": "food_name: Walnuts\nmoisture_content: Low (4%)\nideal_temp: 0-7\u00b0C\npreservation_methods: Refrigeration, Airtight container\nshelf_life_days: 180-365\ndietary_tag: Vegan, Gluten-Free, Nut, High Fat\npackaging_type: Sealed bag\nhumidity_sensitive: Yes (Absorbs moisture and odors easily)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 290
+    }
+  },
+  {
+    "_id": "a84b011cecd84c1395b631fe6d2a436d",
+    "content": "food_name: 89. Deviled Eggs\nmoisture_content: High (60-70%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Acidification\nshelf_life_days: 2-4\ndietary_tag: Vegetarian, Prepared\npackaging_type: Sealed Container, Tray\nhumidity_sensitive: No (Sensitive to temp/air)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 89
+    }
+  },
+  {
+    "_id": "2dd6483102d249a9abbf063f8ba5709b",
+    "content": "food_name: 45. Bhatura\nmoisture_content: Low (10%)\nideal_temp: 18\u2218C\npreservation_methods: Deep Frying\nshelf_life_days: 1\ndietary_tag: Vegetarian, Fried\npackaging_type: Paper Bag\nhumidity_sensitive: No (Best served fresh)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 148
+    }
+  },
+  {
+    "_id": "403970910e8e46eeb6050b5fd42973ab",
+    "content": "food_name: 18. Aloo Gobi\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Stir-frying, Tempering\nshelf_life_days: 3-5\ndietary_tag: Vegan, Vegetable\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 120
+    }
+  },
+  {
+    "_id": "8e956290c0fa4676a360a6e4f3c469d8",
+    "content": "food_name: 75. Egg Bhurji\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Scrambling\nshelf_life_days: 1-2\ndietary_tag: Vegetarian/Egg, Cooked\npackaging_type: Sealed Container\nhumidity_sensitive: No (Spoils quickly once cooked)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 180
+    }
+  },
+  {
+    "_id": "6956a237fc584802b60a84fde47ea96a",
+    "content": "food_name: Radish\nmoisture_content: Extremely High (95%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, Remove leaves\nshelf_life_days: 7-14\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Bundled, Bag\nhumidity_sensitive: Yes (Requires high humidity to stay crisp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 232
+    }
+  },
+  {
+    "_id": "f37f43c6bf814ca7acc07f5b30982787",
+    "content": "food_name: --- Pantry Staples ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 335
+    }
+  },
+  {
+    "_id": "b9a3140586f04bf4ac51a37d30488b69",
+    "content": "food_name: 21. Rogan Josh\nmoisture_content: High (68%)\nideal_temp: 4\u2218C\npreservation_methods: Slow Cooking (Ghee/Oil)\nshelf_life_days: 4-5\ndietary_tag: Non-Veg, Mutton\npackaging_type: Air-tight container\nhumidity_sensitive: No (Oil content helps preservation)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 123
+    }
+  },
+  {
+    "_id": "e3f8092464a64f91b05ab79d4d10f4aa",
+    "content": "food_name: --- Fresh Herbs ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 310
+    }
+  },
+  {
+    "_id": "b0038f6990cb46ada9719a296d12d639",
+    "content": "food_name: Turnip\nmoisture_content: Very High (92%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, Remove leaves\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Loose, Bag\nhumidity_sensitive: Yes (Requires high humidity to stay firm)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 234
+    }
+  },
+  {
+    "_id": "a9ee6470fcec4627a8d82b7a78a93cc6",
+    "content": "food_name: Mushroom\nmoisture_content: Very High (92%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigeration, Paper bag\nshelf_life_days: 4-7\ndietary_tag: Vegan, Gluten-Free, Fungi\npackaging_type: Paper bag, Tray with wrap\nhumidity_sensitive: Yes (Paper bag balances humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 300
+    }
+  },
+  {
+    "_id": "8046af0932d4451db73eaa386e7793b5",
+    "content": "food_name: 73. Fresh Liver\nmoisture_content: High (75%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, Organ Meat\npackaging_type: Sealed Plastic Bag, Tray\nhumidity_sensitive: No (Sensitive to air/temp, spoils fast)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 73
+    }
+  },
+  {
+    "_id": "ba0a35d4c2ac4d3bb843f0404dd64e98",
+    "content": "food_name: 24. Broccoli\nmoisture_content: High (89%)\nideal_temp: 0\u2218C\u22122\u2218C\npreservation_methods: Refrigeration, High humidity storage\nshelf_life_days: 7-14\ndietary_tag: Vegan, Cruciferous\npackaging_type: Plastic Bag, Open Display\nhumidity_sensitive: Yes (Sensitive to drying/florets yellowing)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 23
+    }
+  },
+  {
+    "_id": "4e2b3e1f42974a62af64b34775e8ded5",
+    "content": "food_name: Tangerine\nmoisture_content: Very High (85%)\nideal_temp: 4-7\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 7-14\ndietary_tag: Vegan, Gluten-Free, Citrus\npackaging_type: Mesh bag, Crate\nhumidity_sensitive: Yes (Can dry out if left in open air)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 266
+    }
+  },
+  {
+    "_id": "bf814bbc963e46f4b83e7cf18d8fe679",
+    "content": "food_name: 37. Biryani (Chicken/Veg)\nmoisture_content: High (65%)\nideal_temp: 4\u2218C\npreservation_methods: Layered Steaming (Dum)\nshelf_life_days: 3-4\ndietary_tag: Mixed\npackaging_type: Sealed Container\nhumidity_sensitive: No (Oils help retain moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 140
+    }
+  },
+  {
+    "_id": "6b2aef1397964c9ca5e9b64880f926d1",
+    "content": "food_name: 82. Mutton Curry (Homestyle)\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Slow Cooking\nshelf_life_days: 4-5\ndietary_tag: Non-Veg, Mutton\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 188
+    }
+  },
+  {
+    "_id": "e29dde9f26354f1ca26d3fe705ed2973",
+    "content": "food_name: 59. Seekh Kebab\nmoisture_content: Medium (60%)\nideal_temp: 4\u2218C\npreservation_methods: Grilling/Tandoor\nshelf_life_days: 2-3\ndietary_tag: Non-Veg, Minced Meat\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 163
+    }
+  },
+  {
+    "_id": "4574dd7436544a3cb4ba8d0e6d9d01ac",
+    "content": "food_name: 66. Beef Steak\nmoisture_content: High (70%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing, Dry Aging\nshelf_life_days: 3-5\ndietary_tag: Non-Veg, Red Meat\npackaging_type: Butcher Paper, Vacuum Seal\nhumidity_sensitive: No (Sensitive to air exposure/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 66
+    }
+  },
+  {
+    "_id": "7e913fd30a444c4997bbd8c51079e804",
+    "content": "food_name: Oat Milk\nmoisture_content: Very High (90%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigeration after opening\nshelf_life_days: 7-10\ndietary_tag: Vegan, Dairy-Free\npackaging_type: Carton\nhumidity_sensitive: No (Sealed container protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 326
+    }
+  },
+  {
+    "_id": "4b12a04827d84057aab6975aca326bec",
+    "content": "food_name: Rosemary\nmoisture_content: Medium (68%)\nideal_temp: 0-4\u00b0C\npreservation_methods: Refrigerate in a bag\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Herb\npackaging_type: Bunch, Clamshell\nhumidity_sensitive: No (Woody stems are resilient)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 315
+    }
+  },
+  {
+    "_id": "3772aebb07e54c22b53f519824bcfabf",
+    "content": "food_name: 48. Idli\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Steaming (Fermented Batter)\nshelf_life_days: 2-3\ndietary_tag: Vegan, Fermented Batter\npackaging_type: Sealed Container\nhumidity_sensitive: Yes (Hardens if dry)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 151
+    }
+  },
+  {
+    "_id": "b90cc33d78f14c078da864f0bf29e16d",
+    "content": "food_name: 95. Fresh Meringue\nmoisture_content: Low (5-10%)\nideal_temp: 18\u2218C\u221225\u2218C\npreservation_methods: Baking (Drying), Air-tight storage\nshelf_life_days: 5-10\ndietary_tag: Vegetarian, Dessert\npackaging_type: Air-tight container\nhumidity_sensitive: Yes (Absorbs moisture, causing stickiness)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 95
+    }
+  },
+  {
+    "_id": "39857e95b0da4f06a9e37b6585f5c392",
+    "content": "food_name: Soy Sauce\nmoisture_content: High (68%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dark place, can refrigerate\nshelf_life_days: 365-1095\ndietary_tag: Vegan\npackaging_type: Bottle\nhumidity_sensitive: No (High salt content preserves it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 343
+    }
+  },
+  {
+    "_id": "95b448e8626846c99d7d18bea9935d95",
+    "content": "food_name: 20. Butter Chicken\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Cooking in Cream/Tomato Base\nshelf_life_days: 3-4\ndietary_tag: Non-Veg, Poultry\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 122
+    }
+  },
+  {
+    "_id": "968f0c00a4094dce86653f39853370d9",
+    "content": "food_name: Chayote Squash\nmoisture_content: Very High (94%)\nideal_temp: 10\u00b0C\npreservation_methods: Cool, dry place with good ventilation\nshelf_life_days: 14-30\ndietary_tag: Vegan, Gluten-Free, Gourd\npackaging_type: Loose\nhumidity_sensitive: Yes (Can shrivel in low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 350
+    }
+  },
+  {
+    "_id": "c1f62b0d565345e09a6546bfea076cc5",
+    "content": "food_name: 23. Baingan Bharta\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Roasting, Tempering\nshelf_life_days: 3-5\ndietary_tag: Vegan, Vegetable\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 125
+    }
+  },
+  {
+    "_id": "e9d552da499b41aba9f8ac33ec47cc87",
+    "content": "food_name: Canned Tuna\nmoisture_content: Medium (60%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dark, dry place\nshelf_life_days: 730-1825\ndietary_tag: Seafood\npackaging_type: Can, Pouch\nhumidity_sensitive: No (Canning preserves it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 334
+    }
+  },
+  {
+    "_id": "c22ac2cb7b254de59d5f25872d2cdd51",
+    "content": "food_name: 29. Sarson Ka Saag\nmoisture_content: High (80%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling/Puree, Tempering (Ghee)\nshelf_life_days: 3-5\ndietary_tag: Vegetarian, Leafy Green\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 131
+    }
+  },
+  {
+    "_id": "017d8c92e8944cdfb5f1cc66792190b0",
+    "content": "food_name: Lime\nmoisture_content: Very High (88%)\nideal_temp: 10-13\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 21-30\ndietary_tag: Vegan, Gluten-Free, Citrus\npackaging_type: Loose, Mesh bag\nhumidity_sensitive: Yes (High humidity prevents drying out)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 257
+    }
+  },
+  {
+    "_id": "1a8afe85cbc3427bab4a64ca201d8636",
+    "content": "food_name: Chia Seeds\nmoisture_content: Low (6%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 730-1825\ndietary_tag: Vegan, Gluten-Free, Seed, Superfood\npackaging_type: Sealed pouch, Jar\nhumidity_sensitive: Yes (Gels with moisture, must be kept dry)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 295
+    }
+  },
+  {
+    "_id": "e2a60270bfb2424d9bf56e2d853b30d2",
+    "content": "food_name: 41. Plain Roti/Chapati\nmoisture_content: Low (20%)\nideal_temp: 18\u2218C\npreservation_methods: Dry Heat Cooking\nshelf_life_days: 1-2\ndietary_tag: Vegan, Flour\npackaging_type: Cloth Wrap, Container\nhumidity_sensitive: Yes (Becomes hard/stale if dry)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 144
+    }
+  },
+  {
+    "_id": "2d2e1f50f2e14795874d485a50e5f39c",
+    "content": "food_name: 86. Tandoori Chicken\nmoisture_content: Medium (60%)\nideal_temp: 4\u2218C\npreservation_methods: Tandoor Cooking\nshelf_life_days: 2-3\ndietary_tag: Non-Veg, Poultry\npackaging_type: Foil Wrap, Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 192
+    }
+  },
+  {
+    "_id": "d23f1e2c7af1459f94854e642cb5cca1",
+    "content": "food_name: 92. Scrambled Eggs\nmoisture_content: High (70-75%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Cooking\nshelf_life_days: 1-2\ndietary_tag: Vegetarian, Cooked\npackaging_type: Sealed Container\nhumidity_sensitive: No (Spoils quickly once cooked)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 92
+    }
+  },
+  {
+    "_id": "f1b5eb0bd7d64ec8a74340164c810807",
+    "content": "food_name: Eggs\nmoisture_content: High (76%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigeration, in carton\nshelf_life_days: 21-35\ndietary_tag: Vegetarian\npackaging_type: Carton\nhumidity_sensitive: Yes (Shells are porous, can lose moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 324
+    }
+  },
+  {
+    "_id": "38fc510f06e84c7b806ad5cf2b12c094",
+    "content": "food_name: Parsley Root\nmoisture_content: High (78%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, High humidity\nshelf_life_days: 21-30\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Perforated plastic bag\nhumidity_sensitive: Yes (Prone to going limp in dry conditions)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 360
+    }
+  },
+  {
+    "_id": "415747743089413a9393d91b9cc1fecd",
+    "content": "food_name: 88. Egg Salad\nmoisture_content: High (60-70%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Acidification (Mayonnaise base)\nshelf_life_days: 3-5\ndietary_tag: Vegetarian, Prepared\npackaging_type: Sealed Plastic Container\nhumidity_sensitive: No (Sensitive to temp/air)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 88
+    }
+  },
+  {
+    "_id": "e04337687f6c4b4686ef64cf5e5f5beb",
+    "content": "food_name: 42. Naan\nmoisture_content: Medium (35%)\nideal_temp: 18\u2218C\npreservation_methods: Tandoor Baking\nshelf_life_days: 1\ndietary_tag: Vegetarian, Flour\npackaging_type: Cling Wrap (Short Term)\nhumidity_sensitive: Yes (Becomes rubbery if cold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 145
+    }
+  },
+  {
+    "_id": "4357b48416a945de84d97a0a2d1f152d",
+    "content": "food_name: 91. Mango Pickle (Oil)\nmoisture_content: Low (15%)\nideal_temp: 18\u2218C\npreservation_methods: Oil Curing, Salting, Acidification\nshelf_life_days: 180+\ndietary_tag: Vegan, Condiment\npackaging_type: Sealed Glass Jar (Oil covering)\nhumidity_sensitive: No (Oil/Salt protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 198
+    }
+  },
+  {
+    "_id": "b0c9cbf82896448c9542f06e1e2b3eac",
+    "content": "food_name: Dry Pasta\nmoisture_content: Low (12%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dry place\nshelf_life_days: 365-730\ndietary_tag: Vegan\npackaging_type: Box, Bag\nhumidity_sensitive: Yes (Becomes brittle or soft with humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 339
+    }
+  },
+  {
+    "_id": "751905de23bf4de9a23e542148a8f46c",
+    "content": "food_name: 31. Chicken Tikka Masala\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Baking/Grilling, Creamy base\nshelf_life_days: 3-4\ndietary_tag: Non-Veg, Poultry\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 133
+    }
+  },
+  {
+    "_id": "b16d52f71d5041cea910fba9eb53153d",
+    "content": "food_name: 3. Orange\nmoisture_content: Very High (87%)\nideal_temp: 4\u2218C\u221210\u2218C\npreservation_methods: Refrigeration, Wax Coating\nshelf_life_days: 14-28\ndietary_tag: Vegan, Citrus\npackaging_type: Mesh Bag, Open Air\nhumidity_sensitive: Yes (Avoid extreme humidity/wetness)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 2
+    }
+  },
+  {
+    "_id": "cd400c5b1e27464c85c63c0d34101f10",
+    "content": "food_name: 52. Pakora (Onion/Veg)\nmoisture_content: Low (10%)\nideal_temp: 18\u2218C\npreservation_methods: Deep Frying\nshelf_life_days: 1\ndietary_tag: Vegetarian, Fried Snack\npackaging_type: Paper Bag\nhumidity_sensitive: Yes (Becomes soggy if humid)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 156
+    }
+  },
+  {
+    "_id": "f2dae7d506b5465f98346a8db2db9cfb",
+    "content": "food_name: Potato\nmoisture_content: High (79%)\nideal_temp: 7-10\u00b0C\npreservation_methods: Cool, dark, dry place, Good ventilation\nshelf_life_days: 30-180\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Mesh bag, Paper bag\nhumidity_sensitive: Yes (Requires low humidity to prevent sprouting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 209
+    }
+  },
+  {
+    "_id": "41ab1e0e61734ae5a79aa7434f6cc503",
+    "content": "food_name: 53. Vegetable Cutlet\nmoisture_content: Medium (35%)\nideal_temp: 4\u2218C\npreservation_methods: Deep Frying\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Prepared\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 157
+    }
+  },
+  {
+    "_id": "e1ad88e87b9f422fa7eea537d9285d16",
+    "content": "food_name: Peanut Butter\nmoisture_content: Low (2%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dark place, refrigerate after opening\nshelf_life_days: 90-180\ndietary_tag: Vegan, High Fat\npackaging_type: Jar\nhumidity_sensitive: No (Oil separation is the main issue)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 341
+    }
+  },
+  {
+    "_id": "e94fedf4a3a34ee1aa257de64889933e",
+    "content": "food_name: Mint\nmoisture_content: Very High (86%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigerate in a damp paper towel\nshelf_life_days: 7-10\ndietary_tag: Vegan, Gluten-Free, Herb\npackaging_type: Bunch, Clamshell\nhumidity_sensitive: Yes (Requires high humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 314
+    }
+  },
+  {
+    "_id": "12a3fc5ce97d4a87b7bb359db90fdc4a",
+    "content": "food_name: Sunflower Seeds\nmoisture_content: Low (5%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dark, dry place, Airtight\nshelf_life_days: 90-180\ndietary_tag: Vegan, Gluten-Free, Seed\npackaging_type: Airtight bag, Jar\nhumidity_sensitive: Yes (Requires low humidity to stay crisp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 298
+    }
+  },
+  {
+    "_id": "8c857904aa424018bd6d5c0ff25e671f",
+    "content": "food_name: Pumpkin Seeds\nmoisture_content: Low (5%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dark, dry place, Airtight\nshelf_life_days: 90-180\ndietary_tag: Vegan, Gluten-Free, Seed\npackaging_type: Airtight bag, Jar\nhumidity_sensitive: Yes (Requires low humidity to stay crisp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 297
+    }
+  },
+  {
+    "_id": "d003a35bcdf543a5b1f97312061749cd",
+    "content": "food_name: 58. Butter\nmoisture_content: Low (15-20%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Salting (often)\nshelf_life_days: 30-90\ndietary_tag: Vegetarian, Dairy, High Fat\npackaging_type: Waxed Paper, Plastic Tub\nhumidity_sensitive: No (Fat content is protective barrier)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 57
+    }
+  },
+  {
+    "_id": "93e39305a48a4ee4be9c3367dcef72a8",
+    "content": "food_name: 68. Poha\nmoisture_content: Medium (55%)\nideal_temp: 4\u2218C\npreservation_methods: Steaming/Saut\u00e9ing\nshelf_life_days: 1-2\ndietary_tag: Vegan, Flattened Rice\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 173
+    }
+  },
+  {
+    "_id": "5eb5d3dc17cd47d8828d6d9c53ae6b8a",
+    "content": "food_name: 61. Fish Fry (Indian Style)\nmoisture_content: Medium (50%)\nideal_temp: 4\u2218C\npreservation_methods: Deep Frying\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, Seafood\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 165
+    }
+  },
+  {
+    "_id": "0d0972bf80494074a85424a3928cf28b",
+    "content": "food_name: Peas\nmoisture_content: High (79%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, In pod\nshelf_life_days: 3-5\ndietary_tag: Vegan, Gluten-Free, Legume\npackaging_type: Pod, Vented bag\nhumidity_sensitive: Yes (Loses sweetness if allowed to dry)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 231
+    }
+  },
+  {
+    "_id": "838595114900438eb5be6a747b051332",
+    "content": "food_name: 19. Fresh Figs\nmoisture_content: High (79%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Dry storage\nshelf_life_days: 3-7\ndietary_tag: Vegan, Low Acid\npackaging_type: Shallow Tray, Clamshell\nhumidity_sensitive: Yes (Very delicate, bruises easily)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 18
+    }
+  },
+  {
+    "_id": "e7585514ee314ab8b7812334e971973e",
+    "content": "food_name: 92. Lemon Pickle (Salt)\nmoisture_content: Low (20%)\nideal_temp: 18\u2218C\npreservation_methods: Salting, Sun Drying\nshelf_life_days: 180+\ndietary_tag: Vegan, Condiment\npackaging_type: Sealed Glass Jar\nhumidity_sensitive: No (Salt/Acid protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 199
+    }
+  },
+  {
+    "_id": "e77b12e3e6944094ab17b8720c0025e5",
+    "content": "food_name: 26. Carrots\nmoisture_content: High (88%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Root cellaring\nshelf_life_days: 20-40\ndietary_tag: Vegan, Root\npackaging_type: Plastic Bag (low perforation)\nhumidity_sensitive: Yes (Requires high humidity to prevent wilting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 25
+    }
+  },
+  {
+    "_id": "9c3c0460568d4df5902219a310e7be36",
+    "content": "food_name: 83. Prawns\nmoisture_content: Very High (75-80%)\nideal_temp: 0\u2218C (on ice)\npreservation_methods: Refrigeration, Freezing, Boiling\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, Shellfish\npackaging_type: Covered Bowl, Vacuum Pack\nhumidity_sensitive: No (Sensitive to temp/sulfite blackening)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 83
+    }
+  },
+  {
+    "_id": "bc2a68f6c58548889073e72c969d510e",
+    "content": "food_name: 60. Tofu\nmoisture_content: Very High (75-80%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Brining (often)\nshelf_life_days: 7-10\ndietary_tag: Vegan, Plant-Protein\npackaging_type: Sealed Tub (in water)\nhumidity_sensitive: No (Stored in liquid)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 59
+    }
+  },
+  {
+    "_id": "66b953ceface4ddfa4839b3b2d4a1a20",
+    "content": "food_name: Zucchini\nmoisture_content: Extremely High (95%)\nideal_temp: 5-10\u00b0C\npreservation_methods: Refrigeration, Do not wash until use\nshelf_life_days: 4-7\ndietary_tag: Vegan, Gluten-Free, Gourd\npackaging_type: Loose, Perforated bag\nhumidity_sensitive: Yes (High humidity can cause sliminess)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 217
+    }
+  },
+  {
+    "_id": "fa40dff4336d4422af1c750749bcdb26",
+    "content": "food_name: Grapefruit\nmoisture_content: Very High (91%)\nideal_temp: 10-15\u00b0C\npreservation_methods: Refrigeration or Cool room temp\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Citrus\npackaging_type: Loose, Mesh bag\nhumidity_sensitive: Yes (Can lose moisture over time)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 254
+    }
+  },
+  {
+    "_id": "6db0a9fb3b924548b04b4e4d74a6a527",
+    "content": "food_name: Blackberry\nmoisture_content: Very High (88%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigeration, Do not wash until use\nshelf_life_days: 2-3\ndietary_tag: Vegan, Gluten-Free, Berry\npackaging_type: Clamshell container\nhumidity_sensitive: Yes (Very prone to mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 250
+    }
+  },
+  {
+    "_id": "7e8c394209d949728645a80ce59bbfcb",
+    "content": "food_name: 33. Shahi Paneer\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Creamy/Nutty base\nshelf_life_days: 3-4\ndietary_tag: Vegetarian, Dairy\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 135
+    }
+  },
+  {
+    "_id": "4fa8ebe1c72c45c997db697c10882903",
+    "content": "food_name: 36. Bell Peppers\nmoisture_content: Very High (92%)\nideal_temp: 7\u2218C\u221213\u2218C\npreservation_methods: Refrigeration\nshelf_life_days: 10-14\ndietary_tag: Vegan, Nightshade\npackaging_type: Open Air, Plastic Bag\nhumidity_sensitive: No (Relatively sturdy skin)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 35
+    }
+  },
+  {
+    "_id": "7140c2c765994bc5ba582e5d91055c10",
+    "content": "food_name: Lemongrass\nmoisture_content: High (70%)\nideal_temp: 4-7\u00b0C\npreservation_methods: Refrigeration, Wrapped\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Herb\npackaging_type: Wrapped in paper towel\nhumidity_sensitive: Yes (Prone to drying out)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 353
+    }
+  },
+  {
+    "_id": "a6e9e20e9385463b8c70024698fa6355",
+    "content": "food_name: Pattypan Squash\nmoisture_content: Very High (94%)\nideal_temp: 7-10\u00b0C\npreservation_methods: Refrigeration, Dry\nshelf_life_days: 3-5\ndietary_tag: Vegan, Gluten-Free, Gourd\npackaging_type: Loose\nhumidity_sensitive: Yes (Delicate skin can lose moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 349
+    }
+  },
+  {
+    "_id": "bbb6f1c295774a43a66b28af852605a4",
+    "content": "food_name: 33. Cucumber\nmoisture_content: Extremely High (96%)\nideal_temp: 10\u2218C\u221213\u2218C\npreservation_methods: Cool storage (not refrigerated)\nshelf_life_days: 7-10\ndietary_tag: Vegan, Raw\npackaging_type: Cling Wrap (Long), Open Air\nhumidity_sensitive: No (Sensitive to chill injury below 10\u2218C)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 32
+    }
+  },
+  {
+    "_id": "11c4bffa8ca04900aea4c05045ffe478",
+    "content": "food_name: 79. Appam (Plain)\nmoisture_content: Medium (50%)\nideal_temp: 18\u2218C\npreservation_methods: Batter Frying\nshelf_life_days: 1\ndietary_tag: Vegan, Batter\npackaging_type: Open Air (Best fresh)\nhumidity_sensitive: Yes (Becomes hard/chewy)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 184
+    }
+  },
+  {
+    "_id": "36d4997378404f8a844624c4a464fedb",
+    "content": "food_name: --- \ud83c\udf70 Sweets & Desserts (15 Items) ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 101
+    }
+  },
+  {
+    "_id": "89d8c4c70eb64115ab1b094f97b0bc2d",
+    "content": "food_name: 59. Fresh Paneer\nmoisture_content: High (50-60%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Acid Coagulation\nshelf_life_days: 3-7\ndietary_tag: Vegetarian, Dairy\npackaging_type: Vacuum Pack, Sealed Container (in water)\nhumidity_sensitive: Yes (Drying causes hardness, moisture causes slime)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 58
+    }
+  },
+  {
+    "_id": "e8e88d96c6924829b9718646a6297ebb",
+    "content": "food_name: Ketchup\nmoisture_content: High (70%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigerate after opening\nshelf_life_days: 180-365\ndietary_tag: Vegan, Gluten-Free\npackaging_type: Bottle\nhumidity_sensitive: No (Acidity and sugar preserve it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 342
+    }
+  },
+  {
+    "_id": "cc4bdfd9f7ab4f02b790959f3878d7db",
+    "content": "food_name: 99. Green Chutney (Coriander)\nmoisture_content: High (80%)\nideal_temp: 4\u2218C\npreservation_methods: Refrigeration\nshelf_life_days: 2-3\ndietary_tag: Vegan, Sauce\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 206
+    }
+  },
+  {
+    "_id": "b78abff62c90418e9fc1948c636a75b0",
+    "content": "food_name: Artichoke\nmoisture_content: Very High (84%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, High humidity\nshelf_life_days: 7-14\ndietary_tag: Vegan, Gluten-Free, Vegetable\npackaging_type: Loose, Plastic bag\nhumidity_sensitive: Yes (Requires high humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 219
+    }
+  },
+  {
+    "_id": "088219dc37f84a9098a763f48097afe5",
+    "content": "food_name: 71. Fresh Sausages\nmoisture_content: Medium (55-65%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Casing\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, Ground Meat\npackaging_type: Tray + Cling Wrap, Butcher Paper\nhumidity_sensitive: No (High fat/ground meat = fast spoilage)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 71
+    }
+  },
+  {
+    "_id": "f1af345c8c2f475ea04943d1c37b2255",
+    "content": "food_name: 73. Aloo Paratha\nmoisture_content: Medium (45%)\nideal_temp: 4\u2218C\npreservation_methods: Pan Frying (Stuffed)\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Stuffed Bread\npackaging_type: Foil Wrap\nhumidity_sensitive: No (Fats retain texture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 178
+    }
+  },
+  {
+    "_id": "de6d11b070f44b7e95fe0bcd770c28f3",
+    "content": "food_name: Coffee Beans\nmoisture_content: Low (3%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Airtight, dark container\nshelf_life_days: 30-90\ndietary_tag: Vegan, Gluten-Free\npackaging_type: Valved bag, Canister\nhumidity_sensitive: Yes (Absorbs moisture, affecting flavor)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 307
+    }
+  },
+  {
+    "_id": "e226442a96e54b188c1a6d040dbf9e23",
+    "content": "food_name: Mustard Greens\nmoisture_content: Very High (92%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 3-5\ndietary_tag: Vegan, Gluten-Free, Leafy Green\npackaging_type: Bundled, Bag\nhumidity_sensitive: Yes (Requires high humidity to prevent wilting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 242
+    }
+  },
+  {
+    "_id": "d05565ee3bab455680d90a3d8fd026b6",
+    "content": "food_name: --- Meats & Seafood ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 327
+    }
+  },
+  {
+    "_id": "fbbaa8134c984f6491f6a00ff10129ed",
+    "content": "food_name: Granulated Sugar\nmoisture_content: Low (<1%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dry, airtight container\nshelf_life_days: Indefinite\ndietary_tag: Vegan, Gluten-Free\npackaging_type: Paper bag, Canister\nhumidity_sensitive: Yes (Will clump if it absorbs moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 337
+    }
+  },
+  {
+    "_id": "43e47cf76dbc46eabb2d54a2321569b6",
+    "content": "food_name: 17. Chana Masala\nmoisture_content: Very High (78%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Tempering (Tadka)\nshelf_life_days: 3-5\ndietary_tag: Vegan/Veg, Legume\npackaging_type: Air-tight container\nhumidity_sensitive: No (Spoils due to temp, not moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 119
+    }
+  },
+  {
+    "_id": "4ed13429e79149279f0b3003ce1fc98f",
+    "content": "food_name: 12. Ras Malai\nmoisture_content: Very High (85%)\nideal_temp: 4\u2218C\npreservation_methods: Refrigeration (in milk syrup)\nshelf_life_days: 4-6\ndietary_tag: Vegetarian, Milk Solids\npackaging_type: Sealed Container (in liquid)\nhumidity_sensitive: No (Stored in liquid)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 113
+    }
+  },
+  {
+    "_id": "0dd4ffcdb6704e45878403be9ed0637b",
+    "content": "food_name: Pecans\nmoisture_content: Low (4%)\nideal_temp: 0-7\u00b0C\npreservation_methods: Refrigeration, Airtight container\nshelf_life_days: 180-365\ndietary_tag: Vegan, Gluten-Free, Nut, High Fat\npackaging_type: Sealed bag\nhumidity_sensitive: Yes (Requires low humidity to stay crisp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 291
+    }
+  },
+  {
+    "_id": "ab58e734fc644faeb417c0fafc74028a",
+    "content": "food_name: Persimmon\nmoisture_content: Very High (80%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 3-5\ndietary_tag: Vegan, Gluten-Free, Berry\npackaging_type: Tray pack\nhumidity_sensitive: Yes (Can lose moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 262
+    }
+  },
+  {
+    "_id": "e1aea802f4ae41c18835a19698e2e13e",
+    "content": "food_name: 38. Potatoes\nmoisture_content: High (79%)\nideal_temp: 7\u2218C\u221210\u2218C\npreservation_methods: Cool, Dark, Dry storage (Pantry)\nshelf_life_days: 30-90\ndietary_tag: Vegan, Starchy\npackaging_type: Paper Bag, Mesh Bag\nhumidity_sensitive: No (High moisture causes sprouting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 37
+    }
+  },
+  {
+    "_id": "c946ec6b06ea4ad992f5ff10598430d8",
+    "content": "food_name: Macadamia Nuts\nmoisture_content: Low (2%)\nideal_temp: 0-7\u00b0C\npreservation_methods: Refrigeration, Airtight container\nshelf_life_days: 180\ndietary_tag: Vegan, Gluten-Free, Nut, High Fat\npackaging_type: Sealed bag, Jar\nhumidity_sensitive: Yes (High oil content, prone to rancidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 294
+    }
+  },
+  {
+    "_id": "83e698dbbfed40d7b22f19fd0516b60e",
+    "content": "food_name: Salmon Fillet\nmoisture_content: High (69%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigeration on ice, Use quickly\nshelf_life_days: 1-2\ndietary_tag: Seafood, Gluten-Free\npackaging_type: Plastic wrap, Butcher paper\nhumidity_sensitive: Yes (Very perishable)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 332
+    }
+  },
+  {
+    "_id": "1e74851091a2499eb466cfb9b2124240",
+    "content": "food_name: Celery\nmoisture_content: Extremely High (95%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigeration, Wrap in foil\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Vegetable\npackaging_type: Plastic sleeve, Loose\nhumidity_sensitive: Yes (Requires high humidity to stay crisp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 225
+    }
+  },
+  {
+    "_id": "be18ca78e1ad4cdbbdfc6790e845c160",
+    "content": "food_name: Jackfruit\nmoisture_content: High (74%)\nideal_temp: 13-15\u00b0C\npreservation_methods: Refrigerate after cutting\nshelf_life_days: 3-7\ndietary_tag: Vegan, Gluten-Free, Tropical\npackaging_type: Loose, Tray pack (cut)\nhumidity_sensitive: No (Whole fruit is well protected)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 269
+    }
+  },
+  {
+    "_id": "64ee26cc06154e0689b085b90ced1e9b",
+    "content": "food_name: 7. Raspberries\nmoisture_content: Very High (87%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Dry storage\nshelf_life_days: 2-5\ndietary_tag: Vegan, Berry\npackaging_type: Vented Clamshell\nhumidity_sensitive: Yes (Very delicate, highly sensitive to mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 6
+    }
+  },
+  {
+    "_id": "6bb17493a4cb4d58b0030447a2a952d7",
+    "content": "food_name: Apricot\nmoisture_content: Very High (86%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, Ripen at room temp\nshelf_life_days: 3-5\ndietary_tag: Vegan, Gluten-Free, Stone Fruit\npackaging_type: Tray pack, Clamshell\nhumidity_sensitive: Yes (Sensitive to shriveling)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 249
+    }
+  },
+  {
+    "_id": "0a1cc2121522410691fcea3feb6eb7a9",
+    "content": "food_name: 6. Kulfi (Indian Ice Cream)\nmoisture_content: High (70%)\nideal_temp: \u2264\u221218\u2218C\npreservation_methods: Freezing\nshelf_life_days: 90+\ndietary_tag: Vegetarian, Dairy\npackaging_type: Moulds, Sealed Pack\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 107
+    }
+  },
+  {
+    "_id": "880620378ced4558ab929181ce7fcd1f",
+    "content": "food_name: Okra\nmoisture_content: Very High (90%)\nideal_temp: 7-10\u00b0C\npreservation_methods: Refrigeration, Dry, Paper bag\nshelf_life_days: 2-3\ndietary_tag: Vegan, Gluten-Free, Vegetable\npackaging_type: Paper bag, Tray pack\nhumidity_sensitive: Yes (Very sensitive to moisture and bruising)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 229
+    }
+  },
+  {
+    "_id": "2c2e5fa153114f3586bdedbd6fdb387d",
+    "content": "food_name: 25. Kadai Paneer\nmoisture_content: High (65%)\nideal_temp: 4\u2218C\npreservation_methods: Wok-frying, Tomato base\nshelf_life_days: 3-4\ndietary_tag: Vegetarian, Dairy\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 127
+    }
+  },
+  {
+    "_id": "aefc4cefa94d44afa344d8c2951b1246",
+    "content": "food_name: 71. Sambar\nmoisture_content: Very High (90%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Tempering\nshelf_life_days: 3-5\ndietary_tag: Vegan, Lentil Curry\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 176
+    }
+  },
+  {
+    "_id": "c36282386c5445a0894cf6e5bae3c259",
+    "content": "food_name: Watercress\nmoisture_content: Extremely High (95%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, in water\nshelf_life_days: 2-4\ndietary_tag: Vegan, Gluten-Free, Leafy Green\npackaging_type: Bag, with root ball\nhumidity_sensitive: Yes (Extremely prone to wilting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 248
+    }
+  },
+  {
+    "_id": "ad66731248944ee4be34666bb58a2fa2",
+    "content": "food_name: 47. Cream\nmoisture_content: High (60-70%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Pasteurization, Refrigeration\nshelf_life_days: 7-14\ndietary_tag: Vegetarian, Dairy, High Fat\npackaging_type: Cartons, Sealed Containers\nhumidity_sensitive: No (Sensitive to temp, stored sealed)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 46
+    }
+  },
+  {
+    "_id": "7aabfa9e0bda4d1aa2bad839be7e8305",
+    "content": "food_name: Couscous\nmoisture_content: Low (12%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 180-365\ndietary_tag: Vegan\npackaging_type: Box, Airtight container\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 287
+    }
+  },
+  {
+    "_id": "e5938d6b200c44d6a22503b4a7f00cca",
+    "content": "food_name: 32. Mushrooms\nmoisture_content: Very High (92%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Dry storage\nshelf_life_days: 7-10\ndietary_tag: Vegan, Fungi\npackaging_type: Paper Bag, Vented Clamshell\nhumidity_sensitive: No (Absorbs moisture, leading to sliminess/rot)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 31
+    }
+  },
+  {
+    "_id": "cf1fe6bd4858413caae822580ccb4d0a",
+    "content": "food_name: 42. Ginger\nmoisture_content: High (90%)\nideal_temp: 7\u2218C\u221213\u2218C\npreservation_methods: Refrigeration (unpeeled)\nshelf_life_days: 20-30\ndietary_tag: Vegan, Root/Spice\npackaging_type: Paper Towel in Bag\nhumidity_sensitive: No (High moisture leads to mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 41
+    }
+  },
+  {
+    "_id": "8e6706d18d3c47649b30496ad79e3669",
+    "content": "food_name: Romanesco\nmoisture_content: Very High (92%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, High humidity\nshelf_life_days: 5-7\ndietary_tag: Vegan, Gluten-Free, Cruciferous\npackaging_type: Plastic wrap\nhumidity_sensitive: Yes (High humidity prevents drying)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 348
+    }
+  },
+  {
+    "_id": "5c02b39795c74653a788496f1a00c878",
+    "content": "food_name: 48. Fresh Cheese\nmoisture_content: Very High (50-80%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, High Salting (some types)\nshelf_life_days: 5-10\ndietary_tag: Vegetarian, Dairy\npackaging_type: Sealed Container, Brine\nhumidity_sensitive: No (Temp is main factor)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 47
+    }
+  },
+  {
+    "_id": "21291936df7443adb5dd6397d2f92a60",
+    "content": "food_name: 84. Chicken Do Pyaza\nmoisture_content: High (65%)\nideal_temp: 4\u2218C\npreservation_methods: Simmering (Onion heavy)\nshelf_life_days: 3-4\ndietary_tag: Non-Veg, Poultry\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 190
+    }
+  },
+  {
+    "_id": "23634926d3f04054b3b698d0d5b7aae8",
+    "content": "food_name: 90. Chicken Korma\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Creamy/Nutty base\nshelf_life_days: 3-4\ndietary_tag: Non-Veg, Poultry\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 196
+    }
+  },
+  {
+    "_id": "e9f96582b49748988663d2baa7ce152e",
+    "content": "food_name: 30. Chhole Bhature (Curry only)\nmoisture_content: Very High (80%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Tempering\nshelf_life_days: 3-5\ndietary_tag: Vegan, Legume\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 132
+    }
+  },
+  {
+    "_id": "983baa46e4be48a0be4041ab4c15bc68",
+    "content": "food_name: 13. Plum\nmoisture_content: Very High (87%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration\nshelf_life_days: 5-10\ndietary_tag: Vegan, Stone Fruit\npackaging_type: Paper Bag\nhumidity_sensitive: Yes (Moisture promotes mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 12
+    }
+  },
+  {
+    "_id": "9afdeefb7a574791a95fad4f2f802be4",
+    "content": "food_name: Rambutan\nmoisture_content: Very High (82%)\nideal_temp: 8-12\u00b0C\npreservation_methods: Refrigeration, High humidity\nshelf_life_days: 3-5\ndietary_tag: Vegan, Gluten-Free, Tropical\npackaging_type: Vented bag\nhumidity_sensitive: Yes (Requires high humidity to prevent spines drying)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 271
+    }
+  },
+  {
+    "_id": "d5ca769416df45b28d9a80eeac520dac",
+    "content": "food_name: 16. Dal Makhani\nmoisture_content: Very High (80%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Tempering (Tadka)\nshelf_life_days: 3-5\ndietary_tag: Vegetarian, Legume\npackaging_type: Air-tight container\nhumidity_sensitive: No (Spoils due to temp, not moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 118
+    }
+  },
+  {
+    "_id": "776acc8a5b7b4b309fe6d343763e48a6",
+    "content": "food_name: Kumquat\nmoisture_content: Very High (81%)\nideal_temp: 4-7\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Citrus\npackaging_type: Clamshell\nhumidity_sensitive: Yes (Can lose moisture quickly)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 268
+    }
+  },
+  {
+    "_id": "31f137438b8642e5bb8e2c71c06412f8",
+    "content": "food_name: 38. Jeera Rice\nmoisture_content: High (65%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Tempering (Ghee)\nshelf_life_days: 3-4\ndietary_tag: Vegan/Veg, Starchy\npackaging_type: Sealed Container\nhumidity_sensitive: Yes (Dries out quickly)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 141
+    }
+  },
+  {
+    "_id": "2be84017aea04ae6969b23858e1074ef",
+    "content": "food_name: 72. Coconut Chutney\nmoisture_content: High (75%)\nideal_temp: 4\u2218C\npreservation_methods: Blending, Tempering (Oil)\nshelf_life_days: 2-3\ndietary_tag: Vegan, Sauce\npackaging_type: Sealed Jar\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 177
+    }
+  },
+  {
+    "_id": "79737ced40f8445da52a23f58fb13cc2",
+    "content": "food_name: Green Beans\nmoisture_content: Very High (90%)\nideal_temp: 4-7\u00b0C\npreservation_methods: Refrigeration, Dry storage\nshelf_life_days: 5-7\ndietary_tag: Vegan, Gluten-Free, Legume\npackaging_type: Vented plastic bag\nhumidity_sensitive: Yes (Sensitive to excess moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 227
+    }
+  },
+  {
+    "_id": "ed30b8bdc8704ca1a11afa8fda352da3",
+    "content": "food_name: 50. Feta\nmoisture_content: Medium (55%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Brining, Refrigeration\nshelf_life_days: 30-90\ndietary_tag: Vegetarian, Dairy, Salty\npackaging_type: Sealed Container (in brine), Vacuum Pack\nhumidity_sensitive: No (High salt/brine content protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 49
+    }
+  },
+  {
+    "_id": "7def9d14cd7c4238bde8bf43806e0070",
+    "content": "food_name: Mandarin Orange\nmoisture_content: Very High (85%)\nideal_temp: 4-7\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 7-14\ndietary_tag: Vegan, Gluten-Free, Citrus\npackaging_type: Mesh bag, Crate\nhumidity_sensitive: Yes (Can dry out if left in open air)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 258
+    }
+  },
+  {
+    "_id": "f90b174337cd4a59ba1389c2cbbc3ae7",
+    "content": "food_name: 15. Kiwi\nmoisture_content: Very High (83%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration\nshelf_life_days: 14-28\ndietary_tag: Vegan, Tropical\npackaging_type: Perforated Bag\nhumidity_sensitive: Yes (Sensitive to mold/softening)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 14
+    }
+  },
+  {
+    "_id": "a5bf6a3c213e4601a760cf82a8b92be2",
+    "content": "food_name: 11. Cantaloupe\nmoisture_content: Extremely High (90%)\nideal_temp: 2\u2218C\u22127\u2218C\npreservation_methods: Refrigerate, Remove seeds (if cut)\nshelf_life_days: 5-10\ndietary_tag: Vegan, Melon\npackaging_type: Open Air (Whole), Cling Wrap (Cut)\nhumidity_sensitive: No",
+    "metadata": {
+      "source": "data.csv",
+      "row": 10
+    }
+  },
+  {
+    "_id": "9cd5b9d7418d46208bde8ca5ebcb3415",
+    "content": "food_name: Fennel\nmoisture_content: Very High (90%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 5-7\ndietary_tag: Vegan, Gluten-Free, Vegetable\npackaging_type: Loose\nhumidity_sensitive: Yes (High humidity prevents wilting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 238
+    }
+  },
+  {
+    "_id": "8d83a0ce29cc444597ce2736691adc91",
+    "content": "food_name: 18. Fresh Dates\nmoisture_content: Medium (69%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Drying (Curing)\nshelf_life_days: 30-90\ndietary_tag: Vegan, Dried Fruit\npackaging_type: Sealed Container, Clamshell\nhumidity_sensitive: Yes (High moisture leads to fermentation)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 17
+    }
+  },
+  {
+    "_id": "3e0fb9046a51417b81bf2c3719033949",
+    "content": "food_name: --- \ud83e\udd5f Starters & Snacks (15 Items) ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 154
+    }
+  },
+  {
+    "_id": "1a29890471554a3281c2d3b376fc6230",
+    "content": "food_name: 55. Aloo Tikki\nmoisture_content: Low (15%)\nideal_temp: 18\u2218C\npreservation_methods: Shallow Frying\nshelf_life_days: 1\ndietary_tag: Vegetarian, Fried Snack\npackaging_type: Open Air\nhumidity_sensitive: No (Best served fresh)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 159
+    }
+  },
+  {
+    "_id": "fda3e0f2a5384c1f932671381863afb5",
+    "content": "food_name: 56. Pani Puri (Puri)\nmoisture_content: Very Low (5%)\nideal_temp: 18\u2218C\npreservation_methods: Deep Frying, Drying\nshelf_life_days: 7-14\ndietary_tag: Vegan, Fried Snack\npackaging_type: Sealed Pack\nhumidity_sensitive: Yes (Becomes stale if left open)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 160
+    }
+  },
+  {
+    "_id": "f574af9c3cf44b8ab01c425d6f7da7ec",
+    "content": "food_name: \nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 208
+    }
+  },
+  {
+    "_id": "aab842a4f02e4e708616ea202969dee6",
+    "content": "food_name: --- \ud83c\udf72 Main Course - Sabzis & Curries (20 Items) ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 117
+    }
+  },
+  {
+    "_id": "3c65bfdd18ca4f399a211faf36fe7584",
+    "content": "food_name: Tomato\nmoisture_content: Extremely High (95%)\nideal_temp: 13-21\u00b0C\npreservation_methods: Room Temp (unripe), Refrigerate (ripe)\nshelf_life_days: 5-10\ndietary_tag: Vegan, Gluten-Free, Fruit\npackaging_type: Tray pack, Loose\nhumidity_sensitive: Yes (High humidity can cause mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 210
+    }
+  },
+  {
+    "_id": "a7a9f5260e5642b087c81699dd31464c",
+    "content": "food_name: Wild Rice\nmoisture_content: Low (12%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 365-730\ndietary_tag: Vegan, Gluten-Free, Grain\npackaging_type: Bag, Airtight container\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 285
+    }
+  },
+  {
+    "_id": "b4a4d788983a4d2db76cd12f6dc20cdd",
+    "content": "food_name: 1. Gulab Jamun\nmoisture_content: Very High (80%)\nideal_temp: 4\u2218C\npreservation_methods: Sugar Syrup, Refrigeration\nshelf_life_days: 7-10\ndietary_tag: Vegetarian, Milk Solids\npackaging_type: Sealed Container\nhumidity_sensitive: Yes (Sugar crystals form if too dry)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 102
+    }
+  },
+  {
+    "_id": "c96fbf6898d54517b048c2bc3339553a",
+    "content": "food_name: 28. Malai Kofta\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Frying, Creamy base\nshelf_life_days: 3-4\ndietary_tag: Vegetarian, Dairy\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 130
+    }
+  },
+  {
+    "_id": "1f23c2be870e49abb71141e53cccce06",
+    "content": "food_name: Edamame (in pod)\nmoisture_content: High (75%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 3-5\ndietary_tag: Vegan, Gluten-Free, Legume\npackaging_type: Vented bag\nhumidity_sensitive: Yes (Pods can dry out)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 356
+    }
+  },
+  {
+    "_id": "27f74c64a5ef42b9aa9f0beb751d2002",
+    "content": "food_name: 27. Bhindi Masala\nmoisture_content: Medium (45%)\nideal_temp: 4\u2218C\npreservation_methods: Stir-frying, Acidification (Amchur)\nshelf_life_days: 2-3\ndietary_tag: Vegan, Vegetable\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 129
+    }
+  },
+  {
+    "_id": "eb6f64c66d5946ef8b44992f9609007d",
+    "content": "food_name: 79. Trout\nmoisture_content: Very High (75%)\nideal_temp: 0\u2218C (on ice)\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, Freshwater\npackaging_type: Whole (on ice), Vacuum Pack\nhumidity_sensitive: No (Sensitive to air exposure/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 79
+    }
+  },
+  {
+    "_id": "bfdbcdac8d7a4c0f8e71b020e32d961b",
+    "content": "food_name: Tofu\nmoisture_content: Very High (88%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigeration, In water\nshelf_life_days: 5-7\ndietary_tag: Vegan, Gluten-Free, Soy\npackaging_type: Sealed plastic tub\nhumidity_sensitive: Yes (Must be kept in liquid to stay moist)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 299
+    }
+  },
+  {
+    "_id": "293d639050be4fec8811134fb9bd8c34",
+    "content": "food_name: 32. Egg Curry\nmoisture_content: High (75%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Tempering\nshelf_life_days: 2-3\ndietary_tag: Vegetarian/Egg, Curry\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 134
+    }
+  },
+  {
+    "_id": "14893a02b8fe4ef295d677f1829eb6c4",
+    "content": "food_name: 8. Ladoo (Besan/Rava)\nmoisture_content: Low (10%)\nideal_temp: 18\u2218C\npreservation_methods: Roasting, Ghee\nshelf_life_days: 14-30\ndietary_tag: Vegetarian, Dry Snack\npackaging_type: Air-tight container\nhumidity_sensitive: No (Low moisture is protective)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 109
+    }
+  },
+  {
+    "_id": "bba59c37b4f641d0806d8221bd2f9627",
+    "content": "food_name: 84. Mussels (Live)\nmoisture_content: Extremely High (85-90%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration (in breathable bag), Icing\nshelf_life_days: 2-5\ndietary_tag: Non-Veg, Shellfish\npackaging_type: Mesh Bag (No sealing)\nhumidity_sensitive: Yes (Need high humidity but must breathe)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 84
+    }
+  },
+  {
+    "_id": "555a3843fa274b698261da4ac02a17b5",
+    "content": "food_name: 97. Fresh B\u00e9arnaise\nmoisture_content: High (30-50%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Immediate Refrigeration, Emulsification\nshelf_life_days: 1-2\ndietary_tag: Vegetarian, Sauce\npackaging_type: Sealed Container\nhumidity_sensitive: No (Emulsion breaks easily with temp change)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 97
+    }
+  },
+  {
+    "_id": "3be59d593811428ba344a5f56ec89f0a",
+    "content": "food_name: 88. Goat Curry (Nihari)\nmoisture_content: High (75%)\nideal_temp: 4\u2218C\npreservation_methods: Slow Cooking\nshelf_life_days: 4-5\ndietary_tag: Non-Veg, Mutton\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 194
+    }
+  },
+  {
+    "_id": "2a46f16c3b3549f9a2a7dfc66b32304d",
+    "content": "food_name: 55. Buttermilk\nmoisture_content: Very High (90%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Fermentation\nshelf_life_days: 10-14\ndietary_tag: Vegetarian, Dairy\npackaging_type: Carton, Plastic Bottle\nhumidity_sensitive: No (Sensitive to temp, stored sealed)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 54
+    }
+  },
+  {
+    "_id": "e3fcc43b1aa54a118e7378f43016a659",
+    "content": "food_name: 65. Bhel Puri (Pre-Mix)\nmoisture_content: Very Low (5%)\nideal_temp: 18\u2218C\npreservation_methods: Drying, Roasting\nshelf_life_days: 30-90\ndietary_tag: Vegan, Dry Snack\npackaging_type: Air-tight container\nhumidity_sensitive: Yes (Must be stored dry to maintain crunch)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 169
+    }
+  },
+  {
+    "_id": "1137876f19be4509a22e01b9c70667fb",
+    "content": "food_name: --- \ud83c\udf6f Pickles & Condiments (10 Items) ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 197
+    }
+  },
+  {
+    "_id": "5b67f58b592343e7820d171c27d5bcbe",
+    "content": "food_name: 89. Fish Tandoori\nmoisture_content: Medium (55%)\nideal_temp: 4\u2218C\npreservation_methods: Tandoor Cooking\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, Seafood\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 195
+    }
+  },
+  {
+    "_id": "2b71587dd0da4b68a835ad67a3572f13",
+    "content": "food_name: 14. Peda\nmoisture_content: Low (20%)\nideal_temp: 4\u2218C\npreservation_methods: Milk reduction, Sugar\nshelf_life_days: 7-14\ndietary_tag: Vegetarian, Milk Solids\npackaging_type: Sealed Box\nhumidity_sensitive: No (Low moisture is protective)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 115
+    }
+  },
+  {
+    "_id": "0dd75ebde7994a019264aefd4323ad0c",
+    "content": "food_name: 70. Medu Vada\nmoisture_content: Low (10%)\nideal_temp: 18\u2218C\npreservation_methods: Deep Frying (Batter)\nshelf_life_days: 1\ndietary_tag: Vegan, Fried\npackaging_type: Paper Bag\nhumidity_sensitive: No (Best served fresh)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 175
+    }
+  },
+  {
+    "_id": "16468afde1a5433a80a4d4c8d5b305e6",
+    "content": "food_name: Kohlrabi\nmoisture_content: Very High (91%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, Remove leaves\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Cruciferous\npackaging_type: Loose\nhumidity_sensitive: Yes (High humidity prevents it from drying out)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 246
+    }
+  },
+  {
+    "_id": "5797e55c82dc4032bbaa0bfae11cbbe2",
+    "content": "food_name: 69. Fresh Bacon\nmoisture_content: Medium (50%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Curing (Salting), Refrigeration\nshelf_life_days: 5-7\ndietary_tag: Non-Veg, Cured Meat\npackaging_type: Vacuum Pack, Tray\nhumidity_sensitive: No (Curing preserves it from air/humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 69
+    }
+  },
+  {
+    "_id": "45e13cab841a407299ad8f522c740fec",
+    "content": "food_name: 49. Mozzarella (Fresh)\nmoisture_content: Very High (52-60%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Brining, Refrigeration\nshelf_life_days: 5-10\ndietary_tag: Vegetarian, Dairy\npackaging_type: Sealed Tub (in brine/water)\nhumidity_sensitive: No (Stored in liquid)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 48
+    }
+  },
+  {
+    "_id": "11deca4d55454c87b7bb05fa73b6841b",
+    "content": "food_name: Pomegranate\nmoisture_content: Very High (83%)\nideal_temp: 5-7\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 30-60\ndietary_tag: Vegan, Gluten-Free, Fruit\npackaging_type: Loose, Box\nhumidity_sensitive: Yes (Low humidity can cause hardening)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 263
+    }
+  },
+  {
+    "_id": "2df869725c584722aa18367ee4d10ab8",
+    "content": "food_name: 14. Pear\nmoisture_content: High (84%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Ripen at room temp\nshelf_life_days: 5-12\ndietary_tag: Vegan, Pome\npackaging_type: Fruit Box, Open Air\nhumidity_sensitive: Yes (High humidity prevents shriveling)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 13
+    }
+  },
+  {
+    "_id": "4c6e820a05b1417f8476ca20f2bb278c",
+    "content": "food_name: 95. Mint Chutney (Fresh)\nmoisture_content: High (80%)\nideal_temp: 4\u2218C\npreservation_methods: Refrigeration\nshelf_life_days: 2-3\ndietary_tag: Vegan, Sauce\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 202
+    }
+  },
+  {
+    "_id": "b9fed96745aa4cff8a008e085b542e45",
+    "content": "food_name: 64. Turkey Breast\nmoisture_content: High (75%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 2-3\ndietary_tag: Non-Veg, Poultry\npackaging_type: Vacuum Seal, Tray + Cling Wrap\nhumidity_sensitive: No (Sensitive to air/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 64
+    }
+  },
+  {
+    "_id": "53250c3e44374b35bad15376520f8aa2",
+    "content": "food_name: 21. Lettuce\nmoisture_content: Very High (95%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Controlled atmosphere\nshelf_life_days: 5-10\ndietary_tag: Vegan, Raw\npackaging_type: Clamshell, Perforated Bag\nhumidity_sensitive: Yes (Needs high humidity, but air circulation)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 20
+    }
+  },
+  {
+    "_id": "035ad4024a2946268b96a89a3250d602",
+    "content": "food_name: Pork Chop\nmoisture_content: High (70%)\nideal_temp: 0-4\u00b0C\npreservation_methods: Refrigeration, Use or freeze quickly\nshelf_life_days: 2-3\ndietary_tag: Meat, Gluten-Free\npackaging_type: Butcher paper, Tray pack\nhumidity_sensitive: Yes (Surface moisture affects quality)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 330
+    }
+  },
+  {
+    "_id": "bbbb3ba9c06d4b79bc271b8b5481fbe4",
+    "content": "food_name: Lemon\nmoisture_content: Very High (89%)\nideal_temp: 7-10\u00b0C\npreservation_methods: Refrigeration, Sealed bag\nshelf_life_days: 21-30\ndietary_tag: Vegan, Gluten-Free, Citrus\npackaging_type: Loose, Mesh bag\nhumidity_sensitive: Yes (High humidity prevents drying out)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 215
+    }
+  },
+  {
+    "_id": "9d152b1b75cc4cb5bf6c49471e1ff05b",
+    "content": "food_name: Popcorn (kernels)\nmoisture_content: Low (14%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 730\ndietary_tag: Vegan, Gluten-Free, Grain\npackaging_type: Jar, Airtight bag\nhumidity_sensitive: Yes (Needs specific moisture level to pop)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 286
+    }
+  },
+  {
+    "_id": "0bda78332aa74a73a532e7dacbc921b6",
+    "content": "food_name: Cilantro\nmoisture_content: Very High (92%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigerate, Stand in water\nshelf_life_days: 7-14\ndietary_tag: Vegan, Gluten-Free, Herb\npackaging_type: Bunch, Bag\nhumidity_sensitive: Yes (Very prone to wilting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 312
+    }
+  },
+  {
+    "_id": "3ead8aad45c14b2ca14754691de395f0",
+    "content": "food_name: 100. Relish (Mixed Vegetable)\nmoisture_content: Medium (50%)\nideal_temp: 4\u2218C\npreservation_methods: Acidification (Vinegar), Boiling\nshelf_life_days: 30-90\ndietary_tag: Vegan, Sauce\npackaging_type: Sealed Jar\nhumidity_sensitive: No (Acid protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 207
+    }
+  },
+  {
+    "_id": "74e1a283a9494ca4a435d1b8557cffc5",
+    "content": "food_name: 22. Spinach\nmoisture_content: Very High (91%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Dry storage\nshelf_life_days: 4-7\ndietary_tag: Vegan, Leafy Green\npackaging_type: Sealed Bag (Modified Atmosphere)\nhumidity_sensitive: Yes (Moisture inside bag causes rapid rot)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 21
+    }
+  },
+  {
+    "_id": "4e4023ab2f024f739eb8366640a90172",
+    "content": "food_name: 67. Ground Beef\nmoisture_content: High (65-70%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, Ground Meat\npackaging_type: Tray + Cling Wrap, Sealed Pack\nhumidity_sensitive: No (High surface area = fast spoilage)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 67
+    }
+  },
+  {
+    "_id": "899e1ff322854b30a9e91d3f8865fbdb",
+    "content": "food_name: Collard Greens\nmoisture_content: Very High (90%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 5-7\ndietary_tag: Vegan, Gluten-Free, Leafy Green\npackaging_type: Bundled, Bag\nhumidity_sensitive: Yes (Requires high humidity to prevent wilting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 241
+    }
+  },
+  {
+    "_id": "abce7596984b43a2951c1440ba6c1c7b",
+    "content": "food_name: Dragon Fruit\nmoisture_content: Very High (87%)\nideal_temp: 7-10\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 5-7\ndietary_tag: Vegan, Gluten-Free, Tropical\npackaging_type: Loose\nhumidity_sensitive: Yes (Can lose moisture through the skin)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 264
+    }
+  },
+  {
+    "_id": "b29fdae8be874174b828e4f33a86caae",
+    "content": "food_name: 39. Sweet Potatoes\nmoisture_content: High (77%)\nideal_temp: 13\u2218C\u221216\u2218C\npreservation_methods: Cool, Dark, Dry storage (Pantry)\nshelf_life_days: 30-60\ndietary_tag: Vegan, Starchy\npackaging_type: Paper Bag, Open Box\nhumidity_sensitive: No (High moisture causes rotting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 38
+    }
+  },
+  {
+    "_id": "b0584d8e79c4447981d677fa25fc7658",
+    "content": "food_name: 23. Kale\nmoisture_content: Very High (84%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration\nshelf_life_days: 7-10\ndietary_tag: Vegan, Leafy Green\npackaging_type: Bunch, Perforated Bag\nhumidity_sensitive: Yes (Moisture causes yellowing/spoilage)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 22
+    }
+  },
+  {
+    "_id": "f7c9741f0dc74b8d9c9d1d096a03b554",
+    "content": "food_name: Taro Root\nmoisture_content: Medium (65%)\nideal_temp: 10-13\u00b0C\npreservation_methods: Cool, dark, well-ventilated place\nshelf_life_days: 14-30\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Loose\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 359
+    }
+  },
+  {
+    "_id": "ba676b5523a047f98a91e1045dcd70ca",
+    "content": "food_name: Jicama\nmoisture_content: Very High (85%)\nideal_temp: 12-15\u00b0C\npreservation_methods: Cool, dry place, Do not refrigerate\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Loose\nhumidity_sensitive: Yes (Prefers moderate humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 245
+    }
+  },
+  {
+    "_id": "0895e694221c4c2c900226f689c1eb80",
+    "content": "food_name: Leek\nmoisture_content: Very High (83%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, Loosely wrapped\nshelf_life_days: 7-14\ndietary_tag: Vegan, Gluten-Free, Allium\npackaging_type: Loose, Bundled\nhumidity_sensitive: Yes (Requires high humidity to prevent wilting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 228
+    }
+  },
+  {
+    "_id": "501e70f004e844b483ea55ff21abaa89",
+    "content": "food_name: Quinoa\nmoisture_content: Low (13%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 730-1095\ndietary_tag: Vegan, Gluten-Free, Grain, Superfood\npackaging_type: Sealed bag, Box\nhumidity_sensitive: Yes (Requires low humidity to prevent clumping/mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 274
+    }
+  },
+  {
+    "_id": "257e2bf502954a97b3b5f15426ef314b",
+    "content": "food_name: 31. Corn\nmoisture_content: High (73%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration (in husk)\nshelf_life_days: 3-7\ndietary_tag: Vegan, Starchy\npackaging_type: Husk (Natural packaging)\nhumidity_sensitive: No (Temp is main factor for sugar conversion)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 30
+    }
+  },
+  {
+    "_id": "96437d95f34b4b55b91a0190fe0f8db0",
+    "content": "food_name: 74. Gobi Paratha\nmoisture_content: Medium (45%)\nideal_temp: 4\u2218C\npreservation_methods: Pan Frying (Stuffed)\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Stuffed Bread\npackaging_type: Foil Wrap\nhumidity_sensitive: No (Fats retain texture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 179
+    }
+  },
+  {
+    "_id": "9bf9c832542b471e92605c62ec714dd0",
+    "content": "food_name: Asparagus\nmoisture_content: Very High (93%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigeration, Stand in water\nshelf_life_days: 5-7\ndietary_tag: Vegan, Gluten-Free, Vegetable\npackaging_type: Bundled, Loose\nhumidity_sensitive: Yes (Very prone to drying out)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 220
+    }
+  },
+  {
+    "_id": "4b4735e2b828412bb8f12d74b2b83b99",
+    "content": "food_name: Baking Soda\nmoisture_content: Low (<1%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dry place\nshelf_life_days: 730\ndietary_tag: Vegan, Gluten-Free\npackaging_type: Box\nhumidity_sensitive: Yes (Absorbs moisture and odors)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 345
+    }
+  },
+  {
+    "_id": "eb8679de910540f4af7af0ead5ee0ab9",
+    "content": "food_name: 81. Chicken Curry (Homestyle)\nmoisture_content: High (75%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling/Simmering\nshelf_life_days: 3-4\ndietary_tag: Non-Veg, Poultry\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 187
+    }
+  },
+  {
+    "_id": "01a57a18859843bca81c96b7b8122876",
+    "content": "food_name: food_name\nmoisture_content: moisture_content\nideal_temp: ideal_temp\npreservation_methods: preservation_methods\nshelf_life_days: shelf_life_days\ndietary_tag: dietary_tag\npackaging_type: packaging_type\nhumidity_sensitive: humidity_sensitive",
+    "metadata": {
+      "source": "data.csv",
+      "row": 309
+    }
+  },
+  {
+    "_id": "485e28da1b104bb09b3c43a6622f1766",
+    "content": "food_name: Cherry\nmoisture_content: Very High (82%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 4-7\ndietary_tag: Vegan, Gluten-Free, Stone Fruit\npackaging_type: Pouch bag, Clamshell\nhumidity_sensitive: Yes (High humidity prevents stem drying)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 251
+    }
+  },
+  {
+    "_id": "3aae73d88cc14dcfb93518d4c2e71978",
+    "content": "food_name: 70. Fresh Ham\nmoisture_content: Medium (60%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Curing/Smoking, Refrigeration\nshelf_life_days: 5-7\ndietary_tag: Non-Veg, Pork\npackaging_type: Vacuum Pack, Cling Wrap\nhumidity_sensitive: No (Curing preserves it from air/humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 70
+    }
+  },
+  {
+    "_id": "1d1cc17544f24b5ca1e3dbaf95783b1b",
+    "content": "food_name: 3. Jalebi\nmoisture_content: Low (15%)\nideal_temp: 18\u2218C\npreservation_methods: Deep Frying, Sugar Syrup\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Fried Snack\npackaging_type: Paper Bag, Open Box\nhumidity_sensitive: Yes (Becomes soggy if humid)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 104
+    }
+  },
+  {
+    "_id": "ce5da07962a3428b97f263ab25cd91f2",
+    "content": "food_name: Swiss Chard\nmoisture_content: Very High (93%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, Damp towel\nshelf_life_days: 3-5\ndietary_tag: Vegan, Gluten-Free, Leafy Green\npackaging_type: Bundled, Bag\nhumidity_sensitive: Yes (Extremely prone to wilting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 240
+    }
+  },
+  {
+    "_id": "f2ffb77ec6f843f689d3117ba1d64b3a",
+    "content": "food_name: Cow's Milk\nmoisture_content: Very High (88%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 5-7 (after opening)\ndietary_tag: Dairy, Vegetarian\npackaging_type: Carton, Jug\nhumidity_sensitive: No (Sealed container protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 319
+    }
+  },
+  {
+    "_id": "9477d9ae63cc40dabd68c4445fb864b1",
+    "content": "food_name: 56. Sour Cream\nmoisture_content: Medium (70%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Acidification\nshelf_life_days: 10-14\ndietary_tag: Vegetarian, Dairy\npackaging_type: Plastic Tub, Foil Seal\nhumidity_sensitive: No (Sensitive to temp/contamination)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 55
+    }
+  },
+  {
+    "_id": "efb5c63172ba479eabd8e03ed10b1520",
+    "content": "food_name: Cucumber\nmoisture_content: Extremely High (96%)\nideal_temp: 10-13\u00b0C\npreservation_methods: Refrigeration, Keep dry\nshelf_life_days: 7-10\ndietary_tag: Vegan, Gluten-Free, Gourd\npackaging_type: Plastic wrap\nhumidity_sensitive: Yes (Prone to moisture loss)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 214
+    }
+  },
+  {
+    "_id": "7d2471d4dc0c4e4dbda279ecf3a2c82e",
+    "content": "food_name: Salt\nmoisture_content: Low (<1%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dry place\nshelf_life_days: Indefinite\ndietary_tag: Vegan, Gluten-Free\npackaging_type: Box, Shaker\nhumidity_sensitive: Yes (Will clump if it absorbs moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 338
+    }
+  },
+  {
+    "_id": "da6195dc4bb44b2b9b49e2192da3e95a",
+    "content": "food_name: 24. Rajma Masala\nmoisture_content: Very High (80%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Tempering\nshelf_life_days: 3-5\ndietary_tag: Vegetarian, Legume\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 126
+    }
+  },
+  {
+    "_id": "b4953e97249d42898d3ca9120e239dd8",
+    "content": "food_name: 98. Egg-based Sauces\nmoisture_content: Medium/High (50%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Cooking/Acidification\nshelf_life_days: 2-4\ndietary_tag: Vegetarian, Sauce\npackaging_type: Sealed Jar, Bottle\nhumidity_sensitive: No (Sensitive to temp/contamination)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 98
+    }
+  },
+  {
+    "_id": "97b73550aa92410e8a153696697fdc36",
+    "content": "food_name: 52. Cottage Cheese\nmoisture_content: Very High (80%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Acidification\nshelf_life_days: 10-14\ndietary_tag: Vegetarian, Dairy\npackaging_type: Plastic Tub, Foil Seal\nhumidity_sensitive: No (Sensitive to temp/contamination)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 51
+    }
+  },
+  {
+    "_id": "2962a53738554308b0dfcc95d461ae93",
+    "content": "food_name: Passion Fruit\nmoisture_content: High (73%)\nideal_temp: 7-10\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 7-14\ndietary_tag: Vegan, Gluten-Free, Tropical\npackaging_type: Loose, Box\nhumidity_sensitive: Yes (Skin will wrinkle as it loses moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 261
+    }
+  },
+  {
+    "_id": "cd4166a6cae5436ebb36ba459f3e92e4",
+    "content": "food_name: Bulgur Wheat\nmoisture_content: Low (11%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 180-365\ndietary_tag: Vegan\npackaging_type: Box, Airtight container\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 288
+    }
+  },
+  {
+    "_id": "6b497bf4f8a740969cf23082f10d0705",
+    "content": "food_name: Shallot\nmoisture_content: High (78%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Cool, dark, dry place with good ventilation\nshelf_life_days: 30-60\ndietary_tag: Vegan, Gluten-Free, Allium\npackaging_type: Mesh bag\nhumidity_sensitive: Yes (Requires low humidity to prevent rot)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 354
+    }
+  },
+  {
+    "_id": "20a80b0875a34d4bb51cede0a60e317c",
+    "content": "food_name: --- Dairy & Alternatives ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 318
+    }
+  },
+  {
+    "_id": "79f008f3363146ca8cae7b19d9f3b069",
+    "content": "food_name: Buckwheat\nmoisture_content: Low (12%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 180-365\ndietary_tag: Vegan, Gluten-Free, Grain\npackaging_type: Bag, Airtight container\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 284
+    }
+  },
+  {
+    "_id": "b26e946ffb5d4c1a8a3d4ed82fd629a2",
+    "content": "food_name: Pistachios\nmoisture_content: Low (5%)\nideal_temp: 0-7\u00b0C\npreservation_methods: Refrigeration, Airtight container\nshelf_life_days: 180-365\ndietary_tag: Vegan, Gluten-Free, Nut, High Fat\npackaging_type: Sealed bag\nhumidity_sensitive: Yes (Requires low humidity to stay crisp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 293
+    }
+  },
+  {
+    "_id": "1c3d1020c24d4d20925f9af6376686b7",
+    "content": "food_name: 69. Pongal (Sweet/Savory)\nmoisture_content: High (75%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling\nshelf_life_days: 1-2\ndietary_tag: Vegan/Veg, Rice/Lentil\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 174
+    }
+  },
+  {
+    "_id": "78de82cff4cd458a8a87fc9a3a3782e2",
+    "content": "food_name: Bell Pepper\nmoisture_content: Very High (92%)\nideal_temp: 7-13\u00b0C\npreservation_methods: Refrigeration, Dry storage\nshelf_life_days: 7-14\ndietary_tag: Vegan, Gluten-Free, Nightshade\npackaging_type: Loose, Plastic bag\nhumidity_sensitive: Yes (Can shrivel in low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 213
+    }
+  },
+  {
+    "_id": "ac4a0883dc944c53842b806035c24bac",
+    "content": "food_name: Endive\nmoisture_content: Extremely High (94%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 5-7\ndietary_tag: Vegan, Gluten-Free, Leafy Green\npackaging_type: Loose, Bag\nhumidity_sensitive: Yes (High humidity keeps it crisp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 244
+    }
+  },
+  {
+    "_id": "cd53a6ea5add470f9f08097fe2e063b9",
+    "content": "food_name: Acorn Squash\nmoisture_content: Very High (89%)\nideal_temp: 10-13\u00b0C\npreservation_methods: Cool, dark, dry place\nshelf_life_days: 30-60\ndietary_tag: Vegan, Gluten-Free, Gourd\npackaging_type: Loose\nhumidity_sensitive: No (Hard skin is a good barrier)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 236
+    }
+  },
+  {
+    "_id": "6d5a0b7a36874f0abd29d136d471f6e0",
+    "content": "food_name: 87. Pork Vindaloo\nmoisture_content: High (60%)\nideal_temp: 4\u2218C\npreservation_methods: Acidification (Vinegar), Slow Cooking\nshelf_life_days: 7-10\ndietary_tag: Non-Veg, Pork\npackaging_type: Air-tight container\nhumidity_sensitive: No (Vinegar extends shelf life)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 193
+    }
+  },
+  {
+    "_id": "f713ae445d264117b919f22b5cd4b1d7",
+    "content": "food_name: 76. Salmon Fillets\nmoisture_content: Very High (70%)\nideal_temp: 0\u2218C (on ice)\npreservation_methods: Refrigeration, Freezing, Smoking\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, Omega-3\npackaging_type: Waxed Paper, Vacuum Pack\nhumidity_sensitive: No (Extremely sensitive to Temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 76
+    }
+  },
+  {
+    "_id": "887add496ec4418f84e2262946ff8bea",
+    "content": "food_name: 64. Khandvi\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling/Rolling, Tempering\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Steamed\npackaging_type: Sealed Container\nhumidity_sensitive: Yes (Dries out easily)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 168
+    }
+  },
+  {
+    "_id": "23e0dd12c63b4cddbe7c5acdd645f3d0",
+    "content": "food_name: Turmeric\nmoisture_content: High (75%)\nideal_temp: 12-14\u00b0C\npreservation_methods: Refrigeration or Cool/Dry place\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Loose\nhumidity_sensitive: Yes (Can shrivel or mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 302
+    }
+  },
+  {
+    "_id": "b7976d35735c4c258053d5aa6fd0e5bc",
+    "content": "food_name: White Bread\nmoisture_content: Medium (36%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Room temp, Bread box\nshelf_life_days: 3-5\ndietary_tag: Vegan, Grain\npackaging_type: Plastic bag\nhumidity_sensitive: Yes (Goes stale in low humidity, molds in high)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 340
+    }
+  },
+  {
+    "_id": "228040203b3e4d6ea3c238a0abace95a",
+    "content": "food_name: --- \ud83c\udf5a Rice & Bread (15 Items) ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 138
+    }
+  },
+  {
+    "_id": "3fcbb3615b8547b994a43ef84ede7fe5",
+    "content": "food_name: 62. Momos (Steamed)\nmoisture_content: High (60%)\nideal_temp: 4\u2218C\npreservation_methods: Steaming\nshelf_life_days: 1\ndietary_tag: Non-Veg/Veg, Steamed\npackaging_type: Sealed Container\nhumidity_sensitive: Yes (Becomes tough/dry if open)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 166
+    }
+  },
+  {
+    "_id": "c8d21ef7bb2e40918ab384d99d7ca406",
+    "content": "food_name: 2. Rasgulla\nmoisture_content: Extremely High (90%)\nideal_temp: 4\u2218C\npreservation_methods: Sugar Syrup, Refrigeration\nshelf_life_days: 5-7\ndietary_tag: Vegetarian, Milk Solids\npackaging_type: Sealed Container (in syrup)\nhumidity_sensitive: No (Stored in liquid)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 103
+    }
+  },
+  {
+    "_id": "d271e27323ef4fdd9aaf011d27827802",
+    "content": "food_name: Cauliflower\nmoisture_content: Very High (92%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, High humidity\nshelf_life_days: 7-14\ndietary_tag: Vegan, Gluten-Free, Cruciferous\npackaging_type: Plastic wrap\nhumidity_sensitive: Yes (High humidity prevents drying)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 224
+    }
+  },
+  {
+    "_id": "491978748a4f4328ae203009f21176e6",
+    "content": "food_name: 9. Pineapple\nmoisture_content: Very High (86%)\nideal_temp: 7\u2218C\u221213\u2218C\npreservation_methods: Refrigerate when cut\nshelf_life_days: 5-7\ndietary_tag: Vegan, Tropical\npackaging_type: Open Air (Whole), Clamshell (Cut)\nhumidity_sensitive: No",
+    "metadata": {
+      "source": "data.csv",
+      "row": 8
+    }
+  },
+  {
+    "_id": "22ec8345f10a4fb4be44b046e27aa9d2",
+    "content": "food_name: 4. Grapes\nmoisture_content: Very High (81%)\nideal_temp: 0\u2218C\u22122\u2218C\npreservation_methods: Refrigeration, Sulphur Dioxide (SO2) pads\nshelf_life_days: 7-14\ndietary_tag: Vegan, Low Acid\npackaging_type: Vented Clamshell, Plastic Bag\nhumidity_sensitive: Yes (High humidity promotes mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 3
+    }
+  },
+  {
+    "_id": "8b6f806a241145ffab1609ad9c918405",
+    "content": "food_name: 53. Yogurt\nmoisture_content: High (80-88%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Fermentation (Probiotic)\nshelf_life_days: 14-30\ndietary_tag: Vegetarian, Dairy\npackaging_type: Sealed Cup, Plastic Container\nhumidity_sensitive: No (Sealed, sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 52
+    }
+  },
+  {
+    "_id": "660377a2f03a4a4fa29f5221eee4675c",
+    "content": "food_name: 62. Chicken Thighs\nmoisture_content: High (70%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 2-3\ndietary_tag: Non-Veg, Poultry\npackaging_type: Vacuum Seal, Tray + Cling Wrap\nhumidity_sensitive: No (Sensitive to air/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 62
+    }
+  },
+  {
+    "_id": "b466f4d0f4454626ae45289ed5090574",
+    "content": "food_name: 82. Fresh Anchovies\nmoisture_content: Very High (75%)\nideal_temp: 0\u2218C (on ice)\npreservation_methods: Refrigeration, Curing, Salting\nshelf_life_days: 1\ndietary_tag: Non-Veg, Small Fish\npackaging_type: Tray, Brine/Salt\nhumidity_sensitive: No (Spoil extremely fast)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 82
+    }
+  },
+  {
+    "_id": "a4add143b3f24994afabdd72d924334f",
+    "content": "food_name: 63. Dhokla\nmoisture_content: High (60%)\nideal_temp: 4\u2218C\npreservation_methods: Steaming, Tempering\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Steamed\npackaging_type: Sealed Container\nhumidity_sensitive: Yes (Dries out easily)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 167
+    }
+  },
+  {
+    "_id": "db8a4a77e03e45a9b7de7882b06eb2ba",
+    "content": "food_name: 5. Strawberries\nmoisture_content: Very High (91%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Dry storage\nshelf_life_days: 3-7\ndietary_tag: Vegan, Berry\npackaging_type: Vented Clamshell\nhumidity_sensitive: Yes (Extremely sensitive to moisture/mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 4
+    }
+  },
+  {
+    "_id": "5d48b8b452374dbc99c7937f61a2d0c2",
+    "content": "food_name: Ginger\nmoisture_content: High (79%)\nideal_temp: 12-14\u00b0C\npreservation_methods: Refrigeration or Cool/Dry place\nshelf_life_days: 21-30\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Loose\nhumidity_sensitive: Yes (Can dry out or mold depending on humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 301
+    }
+  },
+  {
+    "_id": "10a5216f35434e62b0ea02f36a02fa51",
+    "content": "food_name: 80. Onion Uthappam\nmoisture_content: High (60%)\nideal_temp: 4\u2218C\npreservation_methods: Batter Frying (Thick)\nshelf_life_days: 1-2\ndietary_tag: Vegan, Batter\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 185
+    }
+  },
+  {
+    "_id": "1edd5c97743f42cfbbddfdab36818e12",
+    "content": "food_name: Cashews\nmoisture_content: Low (5%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dark, dry place, Airtight\nshelf_life_days: 180\ndietary_tag: Vegan, Gluten-Free, Nut, High Fat\npackaging_type: Sealed bag, Canister\nhumidity_sensitive: Yes (Requires low humidity to prevent softening)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 292
+    }
+  },
+  {
+    "_id": "b375c23561034d1785d170f6debe4bb4",
+    "content": "food_name: 99. Fresh Pancake Batter\nmoisture_content: Very High (80%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Acidification (Buttermilk)\nshelf_life_days: 1-3\ndietary_tag: Vegetarian, Flour\npackaging_type: Sealed Container\nhumidity_sensitive: No (Gas production/fermentation is main concern)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 99
+    }
+  },
+  {
+    "_id": "89d12280a982462ca1e6f5e003838021",
+    "content": "food_name: 68. Pork Chops\nmoisture_content: High (68%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 3-4\ndietary_tag: Non-Veg, Pork\npackaging_type: Vacuum Seal, Tray + Cling Wrap\nhumidity_sensitive: No (Sensitive to air/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 68
+    }
+  },
+  {
+    "_id": "428c7c84ec994953acda96b857f4229b",
+    "content": "food_name: 46. Milk\nmoisture_content: Very High (88%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Pasteurization, Refrigeration\nshelf_life_days: 7-14\ndietary_tag: Vegetarian, Dairy\npackaging_type: Cartons, HDPE Bottles\nhumidity_sensitive: No (Sensitive to temp, stored sealed)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 45
+    }
+  },
+  {
+    "_id": "378a9d3d59b7495f92084cb820c79ca6",
+    "content": "food_name: Millet\nmoisture_content: Low (11%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 180-365\ndietary_tag: Vegan, Gluten-Free, Grain\npackaging_type: Bag, Airtight container\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 283
+    }
+  },
+  {
+    "_id": "df2e0599d0894209bdcdf619e398def1",
+    "content": "food_name: Canned Beans\nmoisture_content: High (75%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dark, dry place\nshelf_life_days: 730-1825\ndietary_tag: Vegan, Gluten-Free\npackaging_type: Can\nhumidity_sensitive: No (Canning preserves it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 344
+    }
+  },
+  {
+    "_id": "941d7db8ecb542058692ef4f3add8cfb",
+    "content": "food_name: 13. Rabri\nmoisture_content: Very High (80%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling/Reduction, Refrigeration\nshelf_life_days: 3-5\ndietary_tag: Vegetarian, Dairy\npackaging_type: Sealed Bowl\nhumidity_sensitive: No (Sensitive to temp/contamination)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 114
+    }
+  },
+  {
+    "_id": "470af03db78d47d6a2d2e07e49edd1d9",
+    "content": "food_name: 60. Chicken Tikka (Dry)\nmoisture_content: Medium (65%)\nideal_temp: 4\u2218C\npreservation_methods: Grilling/Tandoor\nshelf_life_days: 2-3\ndietary_tag: Non-Veg, Poultry\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 164
+    }
+  },
+  {
+    "_id": "480e723003184f9aafc22b9d0b08b591",
+    "content": "food_name: Arugula\nmoisture_content: Very High (92%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, Dry storage\nshelf_life_days: 2-4\ndietary_tag: Vegan, Gluten-Free, Leafy Green\npackaging_type: Clamshell, Bag\nhumidity_sensitive: Yes (Wilts easily, but rots if too wet)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 243
+    }
+  },
+  {
+    "_id": "b8291118b3f34356bd9c6a95ed5f9af4",
+    "content": "food_name: 77. Sheera/Suji Halwa\nmoisture_content: Medium (55%)\nideal_temp: 4\u2218C\npreservation_methods: Cooking in Ghee/Sugar Syrup\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Dessert\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 182
+    }
+  },
+  {
+    "_id": "d3a82e7813594997ab91b05c0fc85e55",
+    "content": "food_name: 10. Shrikhand\nmoisture_content: Very High (75%)\nideal_temp: 4\u2218C\npreservation_methods: Fermentation, Refrigeration\nshelf_life_days: 5-7\ndietary_tag: Vegetarian, Curd Base\npackaging_type: Sealed Tub\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 111
+    }
+  },
+  {
+    "_id": "480fc28c25744ea68cb647aea3c1a03a",
+    "content": "food_name: Maple Syrup\nmoisture_content: Medium (34%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigeration after opening\nshelf_life_days: 365\ndietary_tag: Vegan, Gluten-Free\npackaging_type: Glass bottle, Tin\nhumidity_sensitive: Yes (Can mold if not refrigerated after opening)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 305
+    }
+  },
+  {
+    "_id": "318c8b8004f144a589c8da1ec41226a1",
+    "content": "food_name: Yogurt\nmoisture_content: Very High (85%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 7-14\ndietary_tag: Dairy, Vegetarian\npackaging_type: Plastic cup, Tub\nhumidity_sensitive: No (Sealed container protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 322
+    }
+  },
+  {
+    "_id": "bd47dcf6a9ea405487e10a5820917ce5",
+    "content": "food_name: --- \ud83c\udf5e Breakfast & Tiffin (15 Items) ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 170
+    }
+  },
+  {
+    "_id": "9eae8c9f43814f85af36ce4cbe95045d",
+    "content": "food_name: 94. Fresh Custard\nmoisture_content: Very High (80-85%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Cooking (starch thickening)\nshelf_life_days: 3-4\ndietary_tag: Vegetarian, Dessert\npackaging_type: Sealed Bowl, Container\nhumidity_sensitive: No (High moisture/sugar content makes it sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 94
+    }
+  },
+  {
+    "_id": "47e7852123894faea025714e4f58f1d9",
+    "content": "food_name: Daikon Radish\nmoisture_content: Very High (95%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigeration, Wrapped\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Plastic wrap\nhumidity_sensitive: Yes (Prone to moisture loss)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 351
+    }
+  },
+  {
+    "_id": "dde0da10df75466ca4fedcdc3e134fd9",
+    "content": "food_name: Cabbage\nmoisture_content: Very High (92%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigeration, High humidity\nshelf_life_days: 21-60\ndietary_tag: Vegan, Gluten-Free, Cruciferous\npackaging_type: Loose, Plastic wrap\nhumidity_sensitive: Yes (Requires high humidity to prevent wilting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 223
+    }
+  },
+  {
+    "_id": "a297c0fbd43a421b8b54ba851b95b607",
+    "content": "food_name: 45. Turnip\nmoisture_content: High (90%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Root Cellaring\nshelf_life_days: 30-60\ndietary_tag: Vegan, Root\npackaging_type: Plastic Bag, Root Cellar\nhumidity_sensitive: Yes (Requires high humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 44
+    }
+  },
+  {
+    "_id": "4bc33aa5012544728e13d7ebb795ef08",
+    "content": "food_name: Ground Beef\nmoisture_content: High (65%)\nideal_temp: 0-4\u00b0C\npreservation_methods: Refrigeration, Use or freeze quickly\nshelf_life_days: 1-2\ndietary_tag: Meat, Gluten-Free\npackaging_type: Tray pack, Butcher paper\nhumidity_sensitive: Yes (High spoilage risk)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 329
+    }
+  },
+  {
+    "_id": "310c268d8d2b4879a76c9f3100bdcc1c",
+    "content": "food_name: Butternut Squash\nmoisture_content: Very High (88%)\nideal_temp: 10-13\u00b0C\npreservation_methods: Cool, dark, dry place\nshelf_life_days: 60-90\ndietary_tag: Vegan, Gluten-Free, Gourd\npackaging_type: Loose\nhumidity_sensitive: No (Hard skin protects it well)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 235
+    }
+  },
+  {
+    "_id": "50118816ee9442ceac8350ad4032e30c",
+    "content": "food_name: Bok Choy\nmoisture_content: Extremely High (95%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 5-7\ndietary_tag: Vegan, Gluten-Free, Leafy Green\npackaging_type: Perforated bag\nhumidity_sensitive: Yes (Requires high humidity to stay crisp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 239
+    }
+  },
+  {
+    "_id": "58fb8f95e6054d5b9c7e11184125c467",
+    "content": "food_name: 19. Palak Paneer\nmoisture_content: High (75%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling/Puree, Refrigeration\nshelf_life_days: 3-4\ndietary_tag: Vegetarian, Dairy\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 121
+    }
+  },
+  {
+    "_id": "7290b19da0c5441ebed7b31c2a945175",
+    "content": "food_name: 40. Lemon Rice\nmoisture_content: High (65%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Tempering (Oil)\nshelf_life_days: 2-3\ndietary_tag: Vegan, Citrus\npackaging_type: Sealed Container\nhumidity_sensitive: Yes (Flavor degrades quickly)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 143
+    }
+  },
+  {
+    "_id": "824dc3fa9d3e4ede833cb5edadd18d5a",
+    "content": "food_name: 36. Plain Rice (Cooked)\nmoisture_content: Very High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Steaming\nshelf_life_days: 3-4\ndietary_tag: Vegan, Starchy\npackaging_type: Sealed Container\nhumidity_sensitive: Yes (Dries out quickly)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 139
+    }
+  },
+  {
+    "_id": "085bbf3ecd764de0bea6d0c5ba4d86ac",
+    "content": "food_name: Soybeans (dried)\nmoisture_content: Low (8%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 365-730\ndietary_tag: Vegan, Gluten-Free, Legume\npackaging_type: Bag, Bulk bin\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 282
+    }
+  },
+  {
+    "_id": "338183858b2a4b228670a63a45636be2",
+    "content": "food_name: Papaya\nmoisture_content: Very High (88%)\nideal_temp: 10-13\u00b0C\npreservation_methods: Refrigerate when ripe\nshelf_life_days: 2-5\ndietary_tag: Vegan, Gluten-Free, Tropical\npackaging_type: Loose, Foam net\nhumidity_sensitive: Yes (Sensitive during ripening)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 260
+    }
+  },
+  {
+    "_id": "57091cd332174620807ee87e53be106c",
+    "content": "food_name: 76. Semiya Upma\nmoisture_content: High (65%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling/Steaming (Vermicelli)\nshelf_life_days: 1-2\ndietary_tag: Vegan/Veg\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 181
+    }
+  },
+  {
+    "_id": "41ef21f919e34271bb08cc4c0871d122",
+    "content": "food_name: Brown Rice\nmoisture_content: Low (12%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 180-365\ndietary_tag: Vegan, Gluten-Free, Grain\npackaging_type: Sealed bag, Box\nhumidity_sensitive: Yes (Requires low humidity to prevent spoilage)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 275
+    }
+  },
+  {
+    "_id": "d9428f64ff3a4f1fa67f0a52f2210108",
+    "content": "food_name: Almond Milk\nmoisture_content: Very High (95%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigeration after opening\nshelf_life_days: 7-10\ndietary_tag: Vegan, Dairy-Free\npackaging_type: Carton\nhumidity_sensitive: No (Sealed container protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 325
+    }
+  },
+  {
+    "_id": "b15a38f86f544a038e1edad319829bfa",
+    "content": "food_name: Brussels Sprouts\nmoisture_content: Very High (86%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 7-14\ndietary_tag: Vegan, Gluten-Free, Cruciferous\npackaging_type: Stalk, Loose, Mesh bag\nhumidity_sensitive: Yes (Can dry out quickly)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 222
+    }
+  },
+  {
+    "_id": "8628ca1949a34fefb87bd1d253498de1",
+    "content": "food_name: 44. Poori\nmoisture_content: Low (10%)\nideal_temp: 18\u2218C\npreservation_methods: Deep Frying\nshelf_life_days: 1\ndietary_tag: Vegetarian, Fried\npackaging_type: Paper Bag\nhumidity_sensitive: No (Oil content is protective)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 147
+    }
+  },
+  {
+    "_id": "895a6178030545959b7ebf3f3271cd45",
+    "content": "food_name: 12. Peach\nmoisture_content: Very High (89%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Room Temp (ripening)\nshelf_life_days: 3-7\ndietary_tag: Vegan, Stone Fruit\npackaging_type: Open Container, Paper Bag (ripening)\nhumidity_sensitive: Yes (Moisture promotes brown rot)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 11
+    }
+  },
+  {
+    "_id": "a1266b629fa04663a8737b6139dcaed9",
+    "content": "food_name: 22. Fish Curry (South)\nmoisture_content: High (75%)\nideal_temp: 4\u2218C\npreservation_methods: Cooking in Coconut Milk/Tamarind\nshelf_life_days: 2-3\ndietary_tag: Non-Veg, Seafood\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 124
+    }
+  },
+  {
+    "_id": "b9893973f1a34f8d899206383c377f33",
+    "content": "food_name: 77. Tuna Steaks\nmoisture_content: Very High (70-75%)\nideal_temp: 0\u2218C (on ice)\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, High Protein\npackaging_type: Waxed Paper, Vacuum Pack\nhumidity_sensitive: No (Sensitive to air exposure/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 77
+    }
+  },
+  {
+    "_id": "12f33b0bbfb9429692f530ca450880c8",
+    "content": "food_name: Onion\nmoisture_content: Very High (89%)\nideal_temp: 4-10\u00b0C\npreservation_methods: Cool, dark, dry place, Good ventilation\nshelf_life_days: 30-90\ndietary_tag: Vegan, Gluten-Free, Allium\npackaging_type: Mesh bag\nhumidity_sensitive: Yes (Requires low humidity to prevent rot)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 212
+    }
+  },
+  {
+    "_id": "441a45d9c9704746a1807a5142049855",
+    "content": "food_name: 86. Raw Eggs\nmoisture_content: High (75%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Shell cleaning/oil coating\nshelf_life_days: 28-42\ndietary_tag: Vegetarian, Protein\npackaging_type: Egg Carton (Pulp or Plastic)\nhumidity_sensitive: Yes (Humidity affects shell integrity/mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 86
+    }
+  },
+  {
+    "_id": "12b6e20ade1f4f45b827b29563154637",
+    "content": "food_name: Salsify\nmoisture_content: High (77%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, High humidity\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Perforated plastic bag\nhumidity_sensitive: Yes (Requires humidity to stay firm)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 357
+    }
+  },
+  {
+    "_id": "520510332b4149039fa310e87717992d",
+    "content": "food_name: 8. Mango\nmoisture_content: High (83%)\nideal_temp: 10\u2218C\u221213\u2218C\npreservation_methods: Room Temp (to ripen), Refrigerate when ripe\nshelf_life_days: 7-14\ndietary_tag: Vegan, Tropical\npackaging_type: Open Air, Paper Bag (ripening)\nhumidity_sensitive: No (Refrigeration when unripe causes chill injury)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 7
+    }
+  },
+  {
+    "_id": "8f4ed00b09cd478a91c5aeda0bebb3b6",
+    "content": "food_name: Star Fruit\nmoisture_content: Very High (91%)\nideal_temp: 5-10\u00b0C\npreservation_methods: Refrigeration when ripe\nshelf_life_days: 4-7\ndietary_tag: Vegan, Gluten-Free, Tropical\npackaging_type: Tray pack, Plastic wrap\nhumidity_sensitive: Yes (Prone to moisture loss)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 265
+    }
+  },
+  {
+    "_id": "fe4da13dd0c04a9ab0796897e1c7c57d",
+    "content": "food_name: 40. Onions\nmoisture_content: High (89%)\nideal_temp: 7\u2218C\u221213\u2218C\npreservation_methods: Cool, Dark, Dry storage (Pantry)\nshelf_life_days: 60-90\ndietary_tag: Vegan, Allium\npackaging_type: Mesh Bag, Open Air\nhumidity_sensitive: No (Requires dry air to prevent sprouting/mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 39
+    }
+  },
+  {
+    "_id": "95ea2d71424a46288c0f12cdf39a775a",
+    "content": "food_name: 37. Tomatoes\nmoisture_content: Very High (94%)\nideal_temp: 18\u2218C\u221224\u2218C\npreservation_methods: Room Temp (Flavor/Ripening)\nshelf_life_days: 5-10\ndietary_tag: Vegan, Nightshade\npackaging_type: Open Air, Single Layer\nhumidity_sensitive: No (Refrigeration damages texture and flavor)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 36
+    }
+  },
+  {
+    "_id": "c874a97efb384e74874669865e156b2d",
+    "content": "food_name: Carrot\nmoisture_content: Very High (88%)\nideal_temp: 0-4\u00b0C\npreservation_methods: Refrigeration, Remove green tops\nshelf_life_days: 14-28\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Perforated plastic bag\nhumidity_sensitive: Yes (High humidity prevents them going limp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 211
+    }
+  },
+  {
+    "_id": "8da8d9b8e4f145da9acc4afbe4eb4b08",
+    "content": "food_name: 98. Onion Raita\nmoisture_content: Very High (85%)\nideal_temp: 4\u2218C\npreservation_methods: Curd Base, Refrigeration\nshelf_life_days: 1-2\ndietary_tag: Vegetarian, Curd Base\npackaging_type: Sealed Bowl\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 205
+    }
+  },
+  {
+    "_id": "cedede853b2c440885dd4603a8c2a3b3",
+    "content": "food_name: 85. Lamb Kebab (Cooked)\nmoisture_content: Medium (55%)\nideal_temp: 4\u2218C\npreservation_methods: Grilling/Frying\nshelf_life_days: 2-3\ndietary_tag: Non-Veg, Mutton\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 191
+    }
+  },
+  {
+    "_id": "1d06b078156e4ed49efd24a7b90ea76e",
+    "content": "food_name: 83. Prawn Masala\nmoisture_content: High (75%)\nideal_temp: 4\u2218C\npreservation_methods: Simmering in Spice Base\nshelf_life_days: 2-3\ndietary_tag: Non-Veg, Seafood\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 189
+    }
+  },
+  {
+    "_id": "8a482530949e444fa0c7a217b96fa1a4",
+    "content": "food_name: Oats\nmoisture_content: Low (10%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 365-730\ndietary_tag: Vegan, Grain\npackaging_type: Canister, Bag, Box\nhumidity_sensitive: Yes (Absorbs moisture, requires dry storage)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 276
+    }
+  },
+  {
+    "_id": "68d9c74f91fb4392a1996a48faa842c1",
+    "content": "food_name: 2. Banana\nmoisture_content: High (75%)\nideal_temp: 13\u2218C\u221220\u2218C\npreservation_methods: Room Temp (ripening), Ethylene control\nshelf_life_days: 2-7\ndietary_tag: Vegan, Gluten-Free\npackaging_type: Open Air (Hanging)\nhumidity_sensitive: No (Refrigeration causes blackening)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 1
+    }
+  },
+  {
+    "_id": "171b543101434b7d9eef7963bed1c6aa",
+    "content": "food_name: 50. Vada Pav (Prepared)\nmoisture_content: Medium (45%)\nideal_temp: 18\u2218C\npreservation_methods: Deep Frying, Bread\nshelf_life_days: 1\ndietary_tag: Vegetarian, Fried Snack\npackaging_type: Paper Wrap\nhumidity_sensitive: Yes (Becomes soggy if cold/humid)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 153
+    }
+  },
+  {
+    "_id": "13e51c578168414f9668ade7f7c29e8d",
+    "content": "food_name: Flax Seeds\nmoisture_content: Low (7%)\nideal_temp: 0-7\u00b0C\npreservation_methods: Refrigeration, Airtight (ground)\nshelf_life_days: 180-365\ndietary_tag: Vegan, Gluten-Free, Seed, Superfood\npackaging_type: Airtight pouch\nhumidity_sensitive: Yes (Oils can go rancid, keep dry)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 296
+    }
+  },
+  {
+    "_id": "2ec592e7f38d40808e552560b7677615",
+    "content": "food_name: Lentils (dried)\nmoisture_content: Low (11%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 365-1095\ndietary_tag: Vegan, Gluten-Free, Legume\npackaging_type: Bag, Bulk bin\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 279
+    }
+  },
+  {
+    "_id": "40dc9e82d42544f791f1f54ba03db64f",
+    "content": "food_name: 47. Uttapam\nmoisture_content: High (65%)\nideal_temp: 4\u2218C\npreservation_methods: Pan Frying (Batter)\nshelf_life_days: 1-2\ndietary_tag: Vegan, Fermented Batter\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 150
+    }
+  },
+  {
+    "_id": "d488fef2207d41e88ae20edbe0ea6ec8",
+    "content": "food_name: Shrimp (Raw)\nmoisture_content: High (78%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigeration on ice, Use quickly\nshelf_life_days: 1-2\ndietary_tag: Seafood, Gluten-Free\npackaging_type: Bag on ice\nhumidity_sensitive: Yes (Highly perishable)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 333
+    }
+  },
+  {
+    "_id": "cd223397a7a84643a8e952f33606e19b",
+    "content": "food_name: Thyme\nmoisture_content: Medium (65%)\nideal_temp: 0-4\u00b0C\npreservation_methods: Refrigerate in a bag\nshelf_life_days: 10-14\ndietary_tag: Vegan, Gluten-Free, Herb\npackaging_type: Bunch, Clamshell\nhumidity_sensitive: No (Less sensitive than leafy herbs)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 316
+    }
+  },
+  {
+    "_id": "27d94d4b461340cc8ccb501455633f2d",
+    "content": "food_name: 51. Samosa\nmoisture_content: Low (10%)\nideal_temp: 18\u2218C\npreservation_methods: Deep Frying\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Fried Snack\npackaging_type: Paper Bag, Open Box\nhumidity_sensitive: Yes (Becomes soggy if humid)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 155
+    }
+  },
+  {
+    "_id": "914c35048f55471fbf61781fe2e35528",
+    "content": "food_name: 51. Ricotta\nmoisture_content: Very High (70-80%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, High heat treatment\nshelf_life_days: 7-10\ndietary_tag: Vegetarian, Dairy\npackaging_type: Plastic Tub, Sealed Container\nhumidity_sensitive: No (Sensitive to contamination/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 50
+    }
+  },
+  {
+    "_id": "40805f0a24bb43b9b71d0b3298e7a3fd",
+    "content": "food_name: Kidney Beans (dried)\nmoisture_content: Low (11%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 365-1095\ndietary_tag: Vegan, Gluten-Free, Legume\npackaging_type: Bag, Bulk bin\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 281
+    }
+  },
+  {
+    "_id": "df78c764cf8f4cccbfdaecfbeaca20be",
+    "content": "food_name: 57. Cream Cheese\nmoisture_content: Medium (50-60%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Pasteurization\nshelf_life_days: 20-30\ndietary_tag: Vegetarian, Dairy\npackaging_type: Sealed Block, Plastic Tub\nhumidity_sensitive: No (Sensitive to air exposure/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 56
+    }
+  },
+  {
+    "_id": "3a7cb66910a9465bbbceddc55e7ff142",
+    "content": "food_name: 28. Asparagus\nmoisture_content: High (93%)\nideal_temp: 0\u2218C\u22122\u2218C\npreservation_methods: Refrigeration (stored upright in water)\nshelf_life_days: 5-10\ndietary_tag: Vegan, Spring Veg\npackaging_type: Rubber-banded Bunch\nhumidity_sensitive: Yes (Drying causes toughness)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 27
+    }
+  },
+  {
+    "_id": "ac3af9eb566c4355805ed8670b139d49",
+    "content": "food_name: 94. Tomato Ketchup (Fresh)\nmoisture_content: Very High (75%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Acidification, Refrigeration\nshelf_life_days: 7-14\ndietary_tag: Vegan, Sauce\npackaging_type: Sealed Bottle\nhumidity_sensitive: No (Sensitive to temp/air)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 201
+    }
+  },
+  {
+    "_id": "1f5b64c5f1f146b7b603d0a4616dbda9",
+    "content": "food_name: 80. Mackerel\nmoisture_content: High (65-70%)\nideal_temp: 0\u2218C (on ice)\npreservation_methods: Refrigeration, Freezing, Curing\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, Oily Fish\npackaging_type: Whole (on ice), Vacuum Pack\nhumidity_sensitive: No (Oils oxidize quickly if exposed)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 80
+    }
+  },
+  {
+    "_id": "48c64e50082143138785bba9d493317b",
+    "content": "food_name: 39. Pulao (Veg)\nmoisture_content: High (65%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Steaming\nshelf_life_days: 3-4\ndietary_tag: Vegan, Starchy\npackaging_type: Sealed Container\nhumidity_sensitive: Yes (Dries out quickly)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 142
+    }
+  },
+  {
+    "_id": "c06c76c92cca496bb24033b1a8034b0c",
+    "content": "food_name: --- \ud83c\udf57 Meat & Poultry Dishes (10 Items) ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 186
+    }
+  },
+  {
+    "_id": "5cc4bdf9554648338619bed0f5c9dac9",
+    "content": "food_name: Dark Chocolate\nmoisture_content: Low (1%)\nideal_temp: 15-18\u00b0C\npreservation_methods: Cool, dark, dry place\nshelf_life_days: 365-730\ndietary_tag: Vegan, High Fat\npackaging_type: Foil wrap, Box\nhumidity_sensitive: Yes (Humidity can cause sugar bloom)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 306
+    }
+  },
+  {
+    "_id": "a4db48a3640f414cad461c95a7ab60ad",
+    "content": "food_name: 96. Tamarind Chutney\nmoisture_content: Medium (65%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Sugar/Acid, Refrigeration\nshelf_life_days: 14-30\ndietary_tag: Vegan, Sauce\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sugar/Acid protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 203
+    }
+  },
+  {
+    "_id": "630fb0d6be024d518a0da3bdeb56a1a1",
+    "content": "food_name: 63. Whole Chicken\nmoisture_content: High (70-75%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 2-4\ndietary_tag: Non-Veg, Poultry\npackaging_type: Shrink Wrap, Plastic Bag\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 63
+    }
+  },
+  {
+    "_id": "d6bb1ee5645c438aa9b584c910dbd035",
+    "content": "food_name: 49. Dosa\nmoisture_content: Medium (40%)\nideal_temp: 18\u2218C\npreservation_methods: Pan Frying (Thin Batter)\nshelf_life_days: 1\ndietary_tag: Vegan, Fermented Batter\npackaging_type: Open Air (Best fresh)\nhumidity_sensitive: Yes (Becomes soft/soggy)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 152
+    }
+  },
+  {
+    "_id": "9d3cc3e0fcae40208bd5160728adfea3",
+    "content": "food_name: 100. Fresh Waffle Batter\nmoisture_content: Very High (80%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing (optional)\nshelf_life_days: 1-3\ndietary_tag: Vegetarian, Flour\npackaging_type: Sealed Container\nhumidity_sensitive: No (Gas production/fermentation is main concern)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 100
+    }
+  },
+  {
+    "_id": "d3d464b6162a4d819136e080ab7c1be6",
+    "content": "food_name: Mangosteen\nmoisture_content: Very High (81%)\nideal_temp: 10-13\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 3-7\ndietary_tag: Vegan, Gluten-Free, Tropical\npackaging_type: Loose, Small basket\nhumidity_sensitive: Yes (Rind can harden in low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 272
+    }
+  },
+  {
+    "_id": "dfa4bb7aa30b4297a091736a45918a4e",
+    "content": "food_name: Corn\nmoisture_content: High (76%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, In husk\nshelf_life_days: 2-4\ndietary_tag: Vegan, Gluten-Free, Grain\npackaging_type: Husk, Tray pack\nhumidity_sensitive: Yes (Loses moisture and sweetness quickly)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 226
+    }
+  },
+  {
+    "_id": "833a4b513883458d87917e0037fa2609",
+    "content": "food_name: 34. Vegetable Korma\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Creamy/Nutty base\nshelf_life_days: 3-4\ndietary_tag: Vegetarian, Dairy\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 136
+    }
+  },
+  {
+    "_id": "28c918d606c84ef29a3500fdaf5a7cd8",
+    "content": "food_name: 44. Radish\nmoisture_content: Very High (93%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration (remove greens)\nshelf_life_days: 7-14\ndietary_tag: Vegan, Root\npackaging_type: Plastic Bag (low perforation)\nhumidity_sensitive: Yes (Requires high humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 43
+    }
+  },
+  {
+    "_id": "83e2c6f56fdb43a9aa252386f67f2f97",
+    "content": "food_name: Olive Oil\nmoisture_content: N/A (0%)\nideal_temp: 14-18\u00b0C\npreservation_methods: Cool, dark place, Sealed bottle\nshelf_life_days: 365-730\ndietary_tag: Vegan, Gluten-Free, High Fat\npackaging_type: Glass bottle, Tin\nhumidity_sensitive: No (Not sensitive to air humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 303
+    }
+  },
+  {
+    "_id": "9dedf1e49fe24020aa573558b9bd9052",
+    "content": "food_name: Spaghetti Squash\nmoisture_content: Very High (92%)\nideal_temp: 10-13\u00b0C\npreservation_methods: Cool, dark, dry place\nshelf_life_days: 30-60\ndietary_tag: Vegan, Gluten-Free, Gourd\npackaging_type: Loose\nhumidity_sensitive: No (Hard skin protects from moisture loss)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 237
+    }
+  },
+  {
+    "_id": "a1e56e3d694442028ca3c837e42614e8",
+    "content": "food_name: --- \ud83c\udf57 Meats (15 Items) ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 60
+    }
+  },
+  {
+    "_id": "06def9c4e19b45efa7e40393a959275e",
+    "content": "food_name: 10. Watermelon\nmoisture_content: Extremely High (92%)\nideal_temp: 13\u2218C\u221220\u2218C\npreservation_methods: Room Temp (whole), Refrigerate when cut\nshelf_life_days: 7-10\ndietary_tag: Vegan, Melon\npackaging_type: Open Air (Whole), Cling Wrap (Cut)\nhumidity_sensitive: No (Water content dominates)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 9
+    }
+  },
+  {
+    "_id": "3971eaefab57440ca6cc86ca67be7e87",
+    "content": "food_name: 30. Peas\nmoisture_content: High (79%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Shelling (to stop sugar conversion)\nshelf_life_days: 5-10\ndietary_tag: Vegan, Legume\npackaging_type: Pod, Vented Bag\nhumidity_sensitive: Yes (Spoil quickly if damp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 29
+    }
+  },
+  {
+    "_id": "d6a6865aae284e8db6c6730f124d3f5c",
+    "content": "food_name: 20. Lychee\nmoisture_content: Very High (82%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, High Humidity\nshelf_life_days: 7-14\ndietary_tag: Vegan, Tropical\npackaging_type: Perforated Plastic Bag\nhumidity_sensitive: Yes (Skin discoloration if too dry)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 19
+    }
+  },
+  {
+    "_id": "c6d91f73d4ce4e078ad7eff55cfa646a",
+    "content": "food_name: 65. Duck\nmoisture_content: Medium (65%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 2-4\ndietary_tag: Non-Veg, Poultry\npackaging_type: Shrink Wrap, Vacuum Seal\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 65
+    }
+  },
+  {
+    "_id": "1ddc09d88bb54818bd66ce3a99d6f264",
+    "content": "food_name: 54. Spring Roll\nmoisture_content: Low (10%)\nideal_temp: 18\u2218C\npreservation_methods: Deep Frying\nshelf_life_days: 1-2\ndietary_tag: Vegetarian, Fried Snack\npackaging_type: Paper Bag\nhumidity_sensitive: Yes (Becomes soggy if humid)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 158
+    }
+  },
+  {
+    "_id": "e5d9fcce1a3847f088b03bf799c7348b",
+    "content": "food_name: 96. Fresh Hollandaise\nmoisture_content: High (30-50%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Immediate Refrigeration, Emulsification\nshelf_life_days: 1-2\ndietary_tag: Vegetarian, Sauce\npackaging_type: Sealed Container\nhumidity_sensitive: No (Emulsion breaks easily with temp change)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 96
+    }
+  },
+  {
+    "_id": "9b0be67f2b1442ea941c960338d41418",
+    "content": "food_name: Parsnip\nmoisture_content: High (79%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 14-30\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Perforated plastic bag\nhumidity_sensitive: Yes (High humidity prevents them going limp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 230
+    }
+  },
+  {
+    "_id": "9e53f2602b9f4bfb898798c5eb64f3ee",
+    "content": "food_name: 43. Paratha (Plain)\nmoisture_content: Low (15%)\nideal_temp: 4\u2218C\npreservation_methods: Pan Frying (Oil/Ghee)\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Flour\npackaging_type: Foil Wrap\nhumidity_sensitive: No (Fats retain texture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 146
+    }
+  },
+  {
+    "_id": "7914a1edce22427e9c5c8e37fb7f28c0",
+    "content": "food_name: 90. Quiche\nmoisture_content: High (60%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Baking\nshelf_life_days: 3-5\ndietary_tag: Vegetarian, Baked\npackaging_type: Aluminum Pan, Cling Wrap\nhumidity_sensitive: No (Sensitive to temp/air)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 90
+    }
+  },
+  {
+    "_id": "4f807a9a82cd4b47b9410b2e5f0a38c6",
+    "content": "food_name: 9. Barfi (Kaju/Pista)\nmoisture_content: Low (20%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Sugar crystallization\nshelf_life_days: 7-14\ndietary_tag: Vegetarian, Milk Solids\npackaging_type: Sealed Box, Cling Wrap\nhumidity_sensitive: No (Sensitive to mold if wet)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 110
+    }
+  },
+  {
+    "_id": "27da84a0eeea4453bdcbd6fe8c2438cb",
+    "content": "food_name: Black Beans (dried)\nmoisture_content: Low (11%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 365-1095\ndietary_tag: Vegan, Gluten-Free, Legume\npackaging_type: Bag, Bulk bin\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 280
+    }
+  },
+  {
+    "_id": "ca9ac33b6a8d466da09e65e64d699732",
+    "content": "food_name: Honeydew Melon\nmoisture_content: Very High (90%)\nideal_temp: 7-10\u00b0C\npreservation_methods: Refrigerate when cut\nshelf_life_days: 7-10\ndietary_tag: Vegan, Gluten-Free, Melon\npackaging_type: Loose\nhumidity_sensitive: No (Thick rind protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 256
+    }
+  },
+  {
+    "_id": "bd2357d525db4aad9554b320a4d456e4",
+    "content": "food_name: --- Uncommon Produce ---\nmoisture_content: \nideal_temp: \npreservation_methods: \nshelf_life_days: \ndietary_tag: \npackaging_type: \nhumidity_sensitive:",
+    "metadata": {
+      "source": "data.csv",
+      "row": 346
+    }
+  },
+  {
+    "_id": "1ac09204ed654715be03475bf40e4667",
+    "content": "food_name: 66. Masala Dosa\nmoisture_content: Medium (45%)\nideal_temp: 18\u2218C\npreservation_methods: Batter Frying\nshelf_life_days: 1\ndietary_tag: Vegan, Batter\npackaging_type: Open Air (Best fresh)\nhumidity_sensitive: Yes (Becomes soft/soggy)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 171
+    }
+  },
+  {
+    "_id": "c8a85b4f04fb412ba3b6a29e2beb9eee",
+    "content": "food_name: 61. Chicken Breast\nmoisture_content: High (75%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 2-3\ndietary_tag: Non-Veg, Poultry\npackaging_type: Vacuum Seal, Tray + Cling Wrap\nhumidity_sensitive: No (Sensitive to air/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 61
+    }
+  },
+  {
+    "_id": "c79222fe876b4489ac8cab1c30f2a494",
+    "content": "food_name: Fig\nmoisture_content: High (79%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, Use quickly\nshelf_life_days: 2-3\ndietary_tag: Vegan, Gluten-Free, Fruit\npackaging_type: Clamshell, Tray pack\nhumidity_sensitive: Yes (Very perishable, sensitive to moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 253
+    }
+  },
+  {
+    "_id": "691450fe4ff24683b4f03d40f272166d",
+    "content": "food_name: 25. Cauliflower\nmoisture_content: High (92%)\nideal_temp: 0\u2218C\u22122\u2218C\npreservation_methods: Refrigeration\nshelf_life_days: 10-14\ndietary_tag: Vegan, Cruciferous\npackaging_type: Cling wrap (head), Tray (florets)\nhumidity_sensitive: Yes (Humidity prevents discoloration)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 24
+    }
+  },
+  {
+    "_id": "ca5d7d9da96d4dae9dd2481c7aac8b66",
+    "content": "food_name: 17. Fresh Coconut\nmoisture_content: Medium (47%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration\nshelf_life_days: 14-28\ndietary_tag: Vegan, Nut\npackaging_type: Shell (Natural packaging)\nhumidity_sensitive: No (Natural shell provides protection)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 16
+    }
+  },
+  {
+    "_id": "716b991e02fe4d9e9899608bc178f535",
+    "content": "food_name: 11. Malpua\nmoisture_content: High (60%)\nideal_temp: 4\u2218C\npreservation_methods: Deep Frying, Syrup\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Dessert\npackaging_type: Sealed Container\nhumidity_sensitive: Yes (Becomes soggy if humid)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 112
+    }
+  },
+  {
+    "_id": "3df1f487ead24d0aba723f87b35fcad5",
+    "content": "food_name: 97. Garlic Chutney (Dry)\nmoisture_content: Low (10%)\nideal_temp: 18\u2218C\npreservation_methods: Roasting, Drying\nshelf_life_days: 30-60\ndietary_tag: Vegan, Spice Blend\npackaging_type: Air-tight container\nhumidity_sensitive: No (Low moisture is protective)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 204
+    }
+  },
+  {
+    "_id": "a4bebf6e608942c0b68b1eab48d24184",
+    "content": "food_name: 78. Cod Fillets\nmoisture_content: Very High (80%)\nideal_temp: 0\u2218C (on ice)\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, White Fish\npackaging_type: Waxed Paper, Tray\nhumidity_sensitive: No (Sensitive to air exposure/temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 78
+    }
+  },
+  {
+    "_id": "69146687b8b849629590ab2b6487d681",
+    "content": "food_name: Goji Berry\nmoisture_content: Low (10%)\nideal_temp: 0-4\u00b0C\npreservation_methods: Dried, Airtight container\nshelf_life_days: 180-365\ndietary_tag: Vegan, Gluten-Free, Dried Fruit, Superfood\npackaging_type: Airtight pouch\nhumidity_sensitive: Yes (Must be kept dry to prevent clumping)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 273
+    }
+  },
+  {
+    "_id": "773e6a0fdd1b40b9a81a59e989eb7252",
+    "content": "food_name: 41. Garlic\nmoisture_content: Medium (65%)\nideal_temp: 18\u2218C\u221225\u2218C\npreservation_methods: Room Temp, Dry storage\nshelf_life_days: 90-180\ndietary_tag: Vegan, Allium\npackaging_type: Open Air, Mesh Bag\nhumidity_sensitive: No (Requires dry air)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 40
+    }
+  },
+  {
+    "_id": "ef1d8352848d46e9b4842aac3f563c74",
+    "content": "food_name: Plantain\nmoisture_content: Medium (65%)\nideal_temp: 12-14\u00b0C\npreservation_methods: Room Temp, Do not refrigerate\nshelf_life_days: 5-10\ndietary_tag: Vegan, Gluten-Free, Fruit\npackaging_type: Loose\nhumidity_sensitive: Yes (Humidity affects ripening speed)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 267
+    }
+  },
+  {
+    "_id": "8c20813b58ad4e7cb61f1c728fa0e592",
+    "content": "food_name: Cranberry\nmoisture_content: Very High (87%)\nideal_temp: 0-2\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 30-60\ndietary_tag: Vegan, Gluten-Free, Berry\npackaging_type: Vented bag\nhumidity_sensitive: Yes (Good air circulation needed)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 252
+    }
+  },
+  {
+    "_id": "f9230710d5174bd5bc381a3bcdab888e",
+    "content": "food_name: Eggplant\nmoisture_content: Very High (92%)\nideal_temp: 10-12\u00b0C\npreservation_methods: Cool place, Use quickly after purchase\nshelf_life_days: 5-7\ndietary_tag: Vegan, Gluten-Free, Nightshade\npackaging_type: Loose\nhumidity_sensitive: Yes (Can shrivel in low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 218
+    }
+  },
+  {
+    "_id": "f6ea37233a9c4de091c2f9b141801278",
+    "content": "food_name: 74. Fresh Heart\nmoisture_content: High (75%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Freezing\nshelf_life_days: 1-2\ndietary_tag: Non-Veg, Organ Meat\npackaging_type: Sealed Plastic Bag, Tray\nhumidity_sensitive: No (Sensitive to air/temp, spoils fast)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 74
+    }
+  },
+  {
+    "_id": "2f16ef011a7b423c85ddaae28d355c60",
+    "content": "food_name: Almonds\nmoisture_content: Low (5%)\nideal_temp: 0-7\u00b0C\npreservation_methods: Refrigeration, Airtight container\nshelf_life_days: 365-730\ndietary_tag: Vegan, Gluten-Free, Nut, High Fat\npackaging_type: Sealed bag, Canister\nhumidity_sensitive: Yes (Requires low humidity to prevent softening)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 289
+    }
+  },
+  {
+    "_id": "099235bbd336433cb3b475ea0ef7d6df",
+    "content": "food_name: 6. Blueberries\nmoisture_content: Very High (84%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Dry storage, Washing before use\nshelf_life_days: 7-14\ndietary_tag: Vegan, Berry\npackaging_type: Vented Clamshell\nhumidity_sensitive: Yes (Avoid excess moisture)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 5
+    }
+  },
+  {
+    "_id": "156181e1eb8a4c0690cd99bd701b45fc",
+    "content": "food_name: Chicken Breast\nmoisture_content: High (75%)\nideal_temp: 0-4\u00b0C\npreservation_methods: Refrigeration, Use or freeze quickly\nshelf_life_days: 1-2\ndietary_tag: Poultry, Gluten-Free\npackaging_type: Butcher paper, Tray pack\nhumidity_sensitive: Yes (Must be kept dry to prevent bacteria)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 328
+    }
+  },
+  {
+    "_id": "021603b6d1864d66b9c65a08815268bf",
+    "content": "food_name: Butter\nmoisture_content: Low (16%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigeration, Airtight\nshelf_life_days: 30-90\ndietary_tag: Dairy, Vegetarian\npackaging_type: Foil wrap, Tub\nhumidity_sensitive: Yes (Absorbs odors, can spoil)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 323
+    }
+  },
+  {
+    "_id": "c2087ed1c74c49e59c959a66c0580a2f",
+    "content": "food_name: 93. Green Chilli Pickle\nmoisture_content: Low (25%)\nideal_temp: 18\u2218C\npreservation_methods: Oil Curing, Acidification (Vinegar)\nshelf_life_days: 90+\ndietary_tag: Vegan, Condiment\npackaging_type: Sealed Glass Jar\nhumidity_sensitive: No (Oil/Acid protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 200
+    }
+  },
+  {
+    "_id": "02d87978dcae438b98b346861ead73d7",
+    "content": "food_name: 46. Besan Cheela\nmoisture_content: High (60%)\nideal_temp: 4\u2218C\npreservation_methods: Pan Frying\nshelf_life_days: 1-2\ndietary_tag: Vegetarian, Batter\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 149
+    }
+  },
+  {
+    "_id": "5e6ea5641cd7455fb36013d2c7ad17ad",
+    "content": "food_name: Basil\nmoisture_content: Very High (92%)\nideal_temp: 4-7\u00b0C\npreservation_methods: Stand in water (room temp), or refrigerate\nshelf_life_days: 5-10\ndietary_tag: Vegan, Gluten-Free, Herb\npackaging_type: Bunch, Clamshell\nhumidity_sensitive: Yes (Wilts easily, needs humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 311
+    }
+  },
+  {
+    "_id": "ebe169889bc44f21a35b362604d095a7",
+    "content": "food_name: Sweet Potato\nmoisture_content: High (77%)\nideal_temp: 13-16\u00b0C\npreservation_methods: Cool, dark, dry place\nshelf_life_days: 30-90\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Loose, Box\nhumidity_sensitive: Yes (Prefers moderate humidity, not too dry/wet)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 233
+    }
+  },
+  {
+    "_id": "7beed15bf7dd4d2abde27717a780793d",
+    "content": "food_name: 78. Puttu\nmoisture_content: High (70%)\nideal_temp: 18\u2218C\npreservation_methods: Steaming\nshelf_life_days: 1\ndietary_tag: Vegan, Steamed\npackaging_type: Cloth Wrap\nhumidity_sensitive: Yes (Becomes dry quickly)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 183
+    }
+  },
+  {
+    "_id": "1ca62788723646528b3a90f37f07d0e2",
+    "content": "food_name: 57. Dahi Vada\nmoisture_content: Very High (80%)\nideal_temp: 4\u2218C\npreservation_methods: Soaking in Curd, Refrigeration\nshelf_life_days: 2-3\ndietary_tag: Vegetarian, Curd Base\npackaging_type: Sealed Container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 161
+    }
+  },
+  {
+    "_id": "ad9523e51e41410eb84e30b87746f287",
+    "content": "food_name: 93. Fresh Mayonnaise\nmoisture_content: Medium (30-50%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Acidification (Vinegar/Lemon)\nshelf_life_days: 7-14\ndietary_tag: Vegetarian, Sauce\npackaging_type: Sealed Jar, Plastic Bottle\nhumidity_sensitive: No (Sensitive to temp/air)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 93
+    }
+  },
+  {
+    "_id": "2406f22efe1046e490750290703712a7",
+    "content": "food_name: 1. Apple\nmoisture_content: High (84%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, CA Storage\nshelf_life_days: 20-90\ndietary_tag: Vegan, Gluten-Free\npackaging_type: Fruit Box, Polyethylene bag\nhumidity_sensitive: Yes (High humidity prevents shriveling)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 0
+    }
+  },
+  {
+    "_id": "8800885e0b3845ad9f43f0026b151d43",
+    "content": "food_name: Rhubarb\nmoisture_content: Extremely High (95%)\nideal_temp: 0\u00b0C\npreservation_methods: Refrigeration, Loosely wrapped\nshelf_life_days: 5-7\ndietary_tag: Vegan, Gluten-Free, Vegetable\npackaging_type: Loose, Bundled\nhumidity_sensitive: Yes (Prone to moisture loss and wilting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 247
+    }
+  },
+  {
+    "_id": "961237d284e64f2a8eed2e78da59bf29",
+    "content": "food_name: Barley\nmoisture_content: Low (11%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 365-730\ndietary_tag: Vegan, Grain\npackaging_type: Bag, Airtight container\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 277
+    }
+  },
+  {
+    "_id": "dfb68e192dcf48a3abae134a57fd2320",
+    "content": "food_name: Garlic\nmoisture_content: Medium (65%)\nideal_temp: 13-16\u00b0C\npreservation_methods: Cool, dark, dry place, Good ventilation\nshelf_life_days: 90-180\ndietary_tag: Vegan, Gluten-Free, Allium\npackaging_type: Mesh bag, Loose\nhumidity_sensitive: Yes (Requires low humidity to prevent sprouting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 216
+    }
+  },
+  {
+    "_id": "a661003da419442faafba994684d3e0b",
+    "content": "food_name: Chickpeas (dried)\nmoisture_content: Low (11%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Dry, Airtight container\nshelf_life_days: 365-1095\ndietary_tag: Vegan, Gluten-Free, Legume\npackaging_type: Bag, Bulk bin\nhumidity_sensitive: Yes (Requires low humidity)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 278
+    }
+  },
+  {
+    "_id": "bf151884b41e411d87dca84de9a10a5d",
+    "content": "food_name: 16. Avocado\nmoisture_content: Medium (73%)\nideal_temp: 18\u2218C\u221224\u2218C\npreservation_methods: Room Temp (ripening), Refrigerate when ripe\nshelf_life_days: 3-7\ndietary_tag: Vegan, High Fat\npackaging_type: Open Air\nhumidity_sensitive: No (Ripened best at room temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 15
+    }
+  },
+  {
+    "_id": "c35c047d98ba49bf845e19009431b78a",
+    "content": "food_name: Bacon\nmoisture_content: Low (20%)\nideal_temp: 0-4\u00b0C\npreservation_methods: Refrigeration\nshelf_life_days: 7-14 (unopened)\ndietary_tag: Meat, Cured\npackaging_type: Vacuum-sealed pack\nhumidity_sensitive: No (Curing protects it)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 331
+    }
+  },
+  {
+    "_id": "a419d271ce4c4318ae26e7f2d780094b",
+    "content": "food_name: Honey\nmoisture_content: Low (17%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Room Temp, Airtight container\nshelf_life_days: Indefinite\ndietary_tag: Vegetarian, Gluten-Free\npackaging_type: Glass jar, Plastic bottle\nhumidity_sensitive: Yes (Hygroscopic - absorbs moisture from air)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 304
+    }
+  },
+  {
+    "_id": "5ce69921cd3642d08f2f5b6982c6cb2e",
+    "content": "food_name: Cheddar Cheese\nmoisture_content: Medium (37%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigeration, Wrap tightly\nshelf_life_days: 21-60\ndietary_tag: Dairy, Vegetarian\npackaging_type: Plastic wrap, Wax paper\nhumidity_sensitive: Yes (Can dry out or mold)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 320
+    }
+  },
+  {
+    "_id": "3836c139bfa14f15a93a4e2663b0e825",
+    "content": "food_name: 27. Celery\nmoisture_content: Very High (95%)\nideal_temp: 0\u2218C\u22122\u2218C\npreservation_methods: Refrigeration, Hydro-cooling\nshelf_life_days: 10-14\ndietary_tag: Vegan, Raw\npackaging_type: Cling wrap, Plastic Bag\nhumidity_sensitive: Yes (Requires high humidity to stay crisp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 26
+    }
+  },
+  {
+    "_id": "c2068e776a794aaebc39d3697d66c196",
+    "content": "food_name: 26. Matar Paneer\nmoisture_content: High (70%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Tomato base\nshelf_life_days: 3-4\ndietary_tag: Vegetarian, Dairy\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 128
+    }
+  },
+  {
+    "_id": "14b4980a1d79418d907f910017e7bee3",
+    "content": "food_name: Mozzarella (Fresh)\nmoisture_content: High (60%)\nideal_temp: 1-4\u00b0C\npreservation_methods: Refrigeration, In brine\nshelf_life_days: 5-7\ndietary_tag: Dairy, Vegetarian\npackaging_type: Tub with brine\nhumidity_sensitive: Yes (Must be kept moist)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 321
+    }
+  },
+  {
+    "_id": "6f164c181e0a4971961a10b9523475d9",
+    "content": "food_name: 15. Phirni\nmoisture_content: Very High (85%)\nideal_temp: 4\u2218C\npreservation_methods: Boiling, Refrigeration\nshelf_life_days: 3-4\ndietary_tag: Vegetarian, Dairy\npackaging_type: Sealed Bowl\nhumidity_sensitive: No (Sensitive to temp/contamination)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 116
+    }
+  },
+  {
+    "_id": "5e65ce02033749348a22d799b4fe778d",
+    "content": "food_name: 54. Greek Yogurt\nmoisture_content: High (70-80%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Fermentation, Straining\nshelf_life_days: 14-30\ndietary_tag: Vegetarian, Dairy, High Protein\npackaging_type: Sealed Cup, Plastic Container\nhumidity_sensitive: No (Sealed, sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 53
+    }
+  },
+  {
+    "_id": "073f14f86fb448c6bcdb4a9d511c1abe",
+    "content": "food_name: 81. Fresh Sardines\nmoisture_content: Very High (75%)\nideal_temp: 0\u2218C (on ice)\npreservation_methods: Refrigeration, Curing, Canning\nshelf_life_days: 1\ndietary_tag: Non-Veg, Oily Fish\npackaging_type: Whole (on ice), Tray\nhumidity_sensitive: No (Spoil extremely fast)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 81
+    }
+  },
+  {
+    "_id": "7fb68d4d98bd4367acd9e168289f2410",
+    "content": "food_name: 29. Green Beans\nmoisture_content: High (90%)\nideal_temp: 4\u2218C\u22127\u2218C\npreservation_methods: Refrigeration\nshelf_life_days: 7-10\ndietary_tag: Vegan, Legume\npackaging_type: Vented Plastic Bag\nhumidity_sensitive: Yes (Low humidity causes pitting/rusting)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 28
+    }
+  },
+  {
+    "_id": "bc70086bc38a442aab13d1c0d91c2e88",
+    "content": "food_name: 35. Eggplant\nmoisture_content: Very High (92%)\nideal_temp: 10\u2218C\u221215\u2218C\npreservation_methods: Cool storage (not refrigerated)\nshelf_life_days: 7-10\ndietary_tag: Vegan, Nightshade\npackaging_type: Open Air\nhumidity_sensitive: No (Sensitive to chill injury)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 34
+    }
+  },
+  {
+    "_id": "8b6b1040639445ff8ea8af92f88ff668",
+    "content": "food_name: Green Tea (leaves)\nmoisture_content: Low (3%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Airtight, dark container\nshelf_life_days: 180-365\ndietary_tag: Vegan, Gluten-Free\npackaging_type: Tin, Sealed pouch\nhumidity_sensitive: Yes (Absorbs moisture and odors)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 308
+    }
+  },
+  {
+    "_id": "58b781ff22294bbe9a74d03734a19f0b",
+    "content": "food_name: Beetroot\nmoisture_content: Very High (88%)\nideal_temp: 0-4\u00b0C\npreservation_methods: Refrigeration, Remove leaves\nshelf_life_days: 14-30\ndietary_tag: Vegan, Gluten-Free, Root\npackaging_type: Loose, Plastic bag\nhumidity_sensitive: Yes (Requires high humidity to stay firm)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 221
+    }
+  },
+  {
+    "_id": "28f387df33b44c86baf0f54f48d92bf7",
+    "content": "food_name: 87. Hard-boiled Eggs\nmoisture_content: High (75%)\nideal_temp: 0\u2218C\u22124\u2218C\npreservation_methods: Refrigeration, Shell protection\nshelf_life_days: 7\ndietary_tag: Vegetarian, Cooked\npackaging_type: Sealed Container\nhumidity_sensitive: No (Temp is main factor)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 87
+    }
+  },
+  {
+    "_id": "1af634c7a2b34c618073437a4a0465ce",
+    "content": "food_name: All-Purpose Flour\nmoisture_content: Low (12%)\nideal_temp: 18-24\u00b0C\npreservation_methods: Cool, dry, airtight container\nshelf_life_days: 180-365\ndietary_tag: Vegan, Grain\npackaging_type: Paper bag, Canister\nhumidity_sensitive: Yes (Must be kept dry)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 336
+    }
+  },
+  {
+    "_id": "a8893d8e32a84bb78a9837d4bdf07bc2",
+    "content": "food_name: 34. Zucchini\nmoisture_content: Very High (94%)\nideal_temp: 7\u2218C\u221210\u2218C\npreservation_methods: Cool storage\nshelf_life_days: 7-14\ndietary_tag: Vegan, Squash\npackaging_type: Open Container, Plastic Bag (unsealed)\nhumidity_sensitive: Yes (Chill injury if too low, high moisture causes rot)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 33
+    }
+  },
+  {
+    "_id": "f65bef456da14e42b169b10ba8e9599c",
+    "content": "food_name: Guava\nmoisture_content: Very High (81%)\nideal_temp: 5-10\u00b0C\npreservation_methods: Refrigeration when ripe\nshelf_life_days: 3-5\ndietary_tag: Vegan, Gluten-Free, Tropical\npackaging_type: Foam net, Tray pack\nhumidity_sensitive: Yes (Sensitive during ripening)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 255
+    }
+  },
+  {
+    "_id": "0d60539cd39e4c6780bafd912f9c1eb3",
+    "content": "food_name: 35. Keema Matar\nmoisture_content: High (65%)\nideal_temp: 4\u2218C\npreservation_methods: Slow Cooking (Ground Meat)\nshelf_life_days: 3-4\ndietary_tag: Non-Veg, Ground Meat\npackaging_type: Air-tight container\nhumidity_sensitive: No (Sensitive to temp)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 137
+    }
+  },
+  {
+    "_id": "054a1e0c1515452fbf16c6dd61ce5776",
+    "content": "food_name: Tomatillo\nmoisture_content: Very High (92%)\nideal_temp: 7-10\u00b0C\npreservation_methods: Refrigeration, In husk, in paper bag\nshelf_life_days: 14-21\ndietary_tag: Vegan, Gluten-Free, Fruit\npackaging_type: Husk, Paper bag\nhumidity_sensitive: Yes (Husk protects, but can get sticky)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 355
+    }
+  },
+  {
+    "_id": "55d5b1f5b19346c3a799861c8d012d4f",
+    "content": "food_name: 5. Gajar Ka Halwa\nmoisture_content: Medium (50%)\nideal_temp: 4\u2218C\npreservation_methods: Cooking with Ghee, Refrigeration\nshelf_life_days: 7-10\ndietary_tag: Vegetarian, Dairy\npackaging_type: Sealed Container\nhumidity_sensitive: No (Ghee prevents drying)",
+    "metadata": {
+      "source": "data.csv",
+      "row": 106
+    }
+  }
+]
