@@ -1,8 +1,14 @@
 import getpass
+import logging
 import os
+import subprocess
+import time
+
 from langchain_astradb import AstraDBVectorStore
 from langchain import hub
 from langchain_core.documents import Document
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_ollama import ChatOllama
 # Renamed for clarity: langgraph.graph.END is more common
 from langgraph.graph import START, END, StateGraph
 from typing import List, TypedDict, Literal
@@ -10,6 +16,7 @@ import dotenv
 from langchain.chat_models import init_chat_model
 from langchain_nvidia_ai_endpoints import NVIDIAEmbeddings
 from offline_data_fetch_store import VectorStoreManager
+from langchain.prompts import PromptTemplate
 
 dotenv.load_dotenv()
 
@@ -29,20 +36,31 @@ class State(TypedDict):
     answer: str
     offline: bool
 
-
-class RAG_Fetcher:
+class RagFetcher:
     def __init__(self):
-        # Initializations
+        self.OLLAMA_MODEL = "llama3"
+        self.OLLAMA_URL = "http://localhost:11434"
+
         self.llm = init_chat_model("gemini-2.5-flash", model_provider="google_genai")
-        self.prompt = hub.pull("rlm/rag-prompt")
-        self.embeddings = NVIDIAEmbeddings(
-            model="nvidia/nv-embedqa-e5-v5",
-            api_key=os.environ["NVIDIA_KEY"],
-            truncate="NONE",
+        template = """
+        You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. If you don't know the answer, just say that you don't know. Use three sentences maximum and keep the answer concise.
+        Question: {question} 
+        Context: {context} 
+        Answer:
+        """
+
+        self.prompt = PromptTemplate(input_variables=["question", "context"], template=template)
+        self.ollama_llm = ChatOllama(
+            model=self.OLLAMA_MODEL,
+            base_url=self.OLLAMA_URL,
+            # Ensure the model is pulled beforehand using 'ollama pull llama3'
+        )
+        self.hg_embeddings = HuggingFaceEmbeddings(
+            model_name="sentence-transformers/all-MiniLM-L6-v2"
         )
         # Astra Vector Store (Used for ONLINE retrieval)
         self.astra_vector_store = AstraDBVectorStore(
-            embedding=self.embeddings,
+            embedding=self.hg_embeddings,
             api_endpoint=ASTRA_DB_API_ENDPOINT,
             collection_name="food_demo",
             token=ASTRA_DB_APPLICATION_TOKEN,
@@ -61,19 +79,13 @@ class RAG_Fetcher:
     # Node for retrieving from Astra DB (ONLINE)
     def retrieve_online(self, state: State):
         """Retrieves documents from the remote AstraDB (ONLINE)."""
-        print("-> Running ONLINE Retrieval (AstraDB) 📡")
-        retrieved_docs = self.astra_vector_store.similarity_search(state["question"])
+        logging.log(0, 'Retrieving')
+        retrieved_docs = self.astra_vector_store.similarity_search(state["question"], k=1)
         return {"context": retrieved_docs}
 
     # Node for retrieving from Chroma DB (OFFLINE)
     def retrieve_offline(self, state: State):
         """Retrieves documents from the local ChromaDB (OFFLINE)."""
-        print("-> Running OFFLINE Retrieval (ChromaDB) 💾")
-        # Use the manager's query method, specifying the mode for Chroma
-        # NOTE: We assume the manager's internal logic handles population check.
-        # Alternatively, use manager.query_offline directly after a manual check.
-
-        # Using manager.query_offline directly (assuming it's the Chroma query)
         context = self.manager.query_offline(state['question'])
         return {'context': context}
 
@@ -88,18 +100,30 @@ class RAG_Fetcher:
             return 'retrieve_online'
 
     # ----------------------------------------------------
-    # 4. Generation Node (Shared)
+    # 4. Generation Node
     # ----------------------------------------------------
     def generate(self, state: State):
         """Generates the final answer using the retrieved context."""
         docs_content = "\n\n".join(doc.page_content for doc in state["context"])
-
         if not docs_content:
             return {"answer": "I couldn't find relevant information in the knowledge base (either online or offline)."}
-
         messages = self.prompt.invoke({"question": state["question"], "context": docs_content})
-        response = self.llm.invoke(messages)
-        return {"answer": response.content}
+        if state['offline']:
+            try:
+                print(f"-> Running OFFLINE Generation (Ollama: {self.OLLAMA_MODEL}) 💻")
+                response = self.ollama_llm.invoke(messages)
+                response_content = response.content
+            except Exception as e:
+                response_content = (
+                    f"LLM Generation Error (Ollama): Could not connect to the local server. "
+                    f"Please run 'ollama serve' and pull the '{self.OLLAMA_MODEL}' model. Error: {e}"
+                )
+
+            return {"answer": response_content}
+        else:
+            print("-> Running ONLINE Generation (Gemini) 🌐")
+            response = self.llm.invoke(messages)
+            return {"answer": response.content}
 
     # ----------------------------------------------------
     # 5. Graph Building
@@ -108,14 +132,10 @@ class RAG_Fetcher:
         """Initializes and compiles the LangGraph state machine."""
         graph_builder = StateGraph(State)
 
-        # 1. Add Nodes (Only retrieval and generation nodes are needed)
         graph_builder.add_node("retrieve_offline", self.retrieve_offline)  # Chroma retrieval
         graph_builder.add_node("retrieve_online", self.retrieve_online)  # Astra retrieval
         graph_builder.add_node("generate_answer", self.generate)  # LLM Generation
 
-        # 2. Define Conditional Edges (The Core Fix)
-        # The graph starts, executes self.decide_offline_online, and then
-        # routes the flow to the node name (string) returned by that function.
         graph_builder.add_conditional_edges(
             # Source Node: START
             START,
@@ -128,11 +148,10 @@ class RAG_Fetcher:
             },
         )
 
-        # 3. Connect Retrieval to Generation
+
         graph_builder.add_edge('retrieve_offline', 'generate_answer')
         graph_builder.add_edge('retrieve_online', 'generate_answer')
 
-        # 4. Connect Generation to END
         graph_builder.add_edge('generate_answer', END)
 
         self.graph = graph_builder.compile()
@@ -159,9 +178,9 @@ class RAG_Fetcher:
 
 
 if __name__ == '__main__':
-    rg = RAG_Fetcher()
+    rg = RagFetcher()
 
-    question = "How to store poha?"
+    question = "How to store poha? And how many days can I store it for? Also explain its sensitivity."
 
     # --- MODE 1: OFFLINE QUERY (CHROMA) ---
     print("\n--- Running OFFLINE Query (Chroma) ---")
