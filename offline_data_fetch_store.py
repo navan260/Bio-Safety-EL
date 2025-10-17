@@ -32,14 +32,6 @@ class VectorStoreManager:
             raise ValueError(
                 "Missing one or more required environment variables (ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE, NVIDIA_KEY).")
 
-        # --- Initializations ---
-        # 1. Embedding Model
-        self.embeddings = NVIDIAEmbeddings(
-            model="nvidia/nv-embedqa-e5-v5",
-            api_key=self.NVIDIA_KEY,
-            truncate="NONE",
-        )
-
         # 2. Astra DB Client/Collection (Source DB)
         self._init_astra_db()
 
@@ -54,7 +46,7 @@ class VectorStoreManager:
             token=self.ASTRA_DB_APPLICATION_TOKEN,
         )
         # Astra DB collection name is 'food_demo'
-        self.astra_collection = my_database.get_collection('food_demo', keyspace=self.keyspace)
+        self.astra_collection = my_database.get_collection('food_demo')
         print("✅ Astra DB connection established.")
 
     def _init_chroma_db(self):
@@ -99,15 +91,11 @@ class VectorStoreManager:
                 metas = [d.get("metadata", {}) for d in batch]
                 ids = [str(d["_id"]) for d in batch]  # Ensure IDs are strings
 
-                # Generate embeddings
-                vectors = self.embeddings.embed_documents(docs)
-
                 # Insert into Chroma
                 self.chroma_collection.add(
                     documents=docs,
                     metadatas=metas,
                     ids=ids,
-                    embeddings=vectors
                 )
 
                 print(f"✅ Inserted batch {(i // batch_size) + 1} / {((total_docs - 1) // batch_size) + 1}")
@@ -130,11 +118,11 @@ class VectorStoreManager:
         if self.chroma_collection.count() == 0:
             self.download_and_populate()
         try:
-            query_vector = self.embeddings.embed_query(query)
+            # query_vector = self.embeddings.embed_query(query)
 
             # Query Chroma
             results = self.chroma_collection.query(
-                query_embeddings=[query_vector],
+                query_texts=[query],
                 n_results=n_results,
                 include=['documents', 'metadatas', 'distances']
             )
