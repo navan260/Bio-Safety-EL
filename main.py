@@ -94,6 +94,7 @@ class RagFetcher:
     # ----------------------------------------------------
     def decide_offline_online(self, state: State):
         """Decides which retrieval path to take based on the 'offline' flag."""
+        print(f"[DEBUG] decide_offline_online called. offline={state['offline']}")
         if state['offline']:
             return 'retrieve_offline'
         else:
@@ -104,8 +105,11 @@ class RagFetcher:
     # ----------------------------------------------------
     def generate(self, state: State):
         """Generates the final answer using the retrieved context."""
+        print("[DEBUG] generate called")
         docs_content = "\n\n".join(doc.page_content for doc in state["context"])
+        print(f"[DEBUG] Context length: {len(docs_content)}")
         if not docs_content:
+            print("[DEBUG] No context found")
             return {"answer": "I couldn't find relevant information in the knowledge base (either online or offline)."}
         messages = self.prompt.invoke({"question": state["question"], "context": docs_content})
         if state['offline']:
@@ -172,9 +176,14 @@ class RagFetcher:
             "context": [],
             "answer": ""
         }
-
-        response = self.graph.invoke(initial_state)
-        return response["answer"]
+        print(f"[DEBUG] Starting graph execution with mode={mode}")
+        try:
+            response = self.graph.invoke(initial_state)
+            print("[DEBUG] Graph execution finished")
+            return response["answer"]
+        except Exception as e:
+            print(f"[ERROR] Graph execution failed: {e}")
+            raise e
 
 
 if __name__ == '__main__':

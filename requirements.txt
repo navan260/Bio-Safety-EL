@@ -17,3 +17,4 @@ langgraph~=0.6.10
 langchain_nvidia_ai_endpoints
 langchain-astradb
 astrapy~=2.1.0
+fpdf

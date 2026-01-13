@@ -4,3 +4,6 @@
 ./astra_data_export.json
 ./data.csv
 ./chroma_food_storage_data
+__pycache__
+.idea
+reports

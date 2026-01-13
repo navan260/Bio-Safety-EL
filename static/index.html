@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bio-Safety Food Intelligence</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <div class="container">
+        <header>
+            <div class="logo-container">
+                <div class="logo-icon">🧬</div>
+                <div class="logo-text">
+                    <h1>Bio-Safety <span class="gradient-text">Intelligence</span></h1>
+                    <p class="subtitle">Next-Gen Food Preservation Analysis</p>
+                </div>
+            </div>
+
+            <div class="mode-toggle-container">
+                <span class="mode-label">Online</span>
+                <label class="switch">
+                    <input type="checkbox" id="offlineToggle">
+                    <span class="slider round"></span>
+                </label>
+                <span class="mode-label">Offline</span>
+            </div>
+        </header>
+
+        <main>
+            <section class="glass-card input-section">
+                <div class="card-header">
+                    <h2>Analysis Parameters</h2>
+                    <div class="status-indicator" title="System Ready"></div>
+                </div>
+
+                <form id="analysisForm">
+                    <div class="input-group">
+                        <label for="foodName">Food Item</label>
+                        <div class="input-wrapper">
+                            <input type="text" id="foodName" placeholder="e.g., Cooked Rice, Raw Chicken" required>
+                            <span class="focus-border"></span>
+                        </div>
+                    </div>
+
+                    <div class="form-row">
+                        <div class="input-group">
+                            <label for="weather">Conditions</label>
+                            <div class="input-wrapper">
+                                <input type="text" id="weather" placeholder="e.g., Humid, 30°C" required>
+                                <span class="focus-border"></span>
+                            </div>
+                        </div>
+                        <div class="input-group">
+                            <label for="duration">Duration</label>
+                            <div class="input-wrapper">
+                                <input type="text" id="duration" placeholder="e.g., 2 days" required>
+                                <span class="focus-border"></span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="input-group">
+                        <label for="context">Context</label>
+                        <div class="input-wrapper">
+                            <textarea id="context" rows="3" placeholder="Additional details..."></textarea>
+                            <span class="focus-border"></span>
+                        </div>
+                    </div>
+
+                    <button type="submit" id="generateBtn" class="glow-btn">
+                        <span class="btn-content">Run Analysis</span>
+                        <div class="loading-spinner hidden"></div>
+                    </button>
+                </form>
+            </section>
+
+            <section id="resultSection" class="glass-card result-section hidden">
+                <div class="card-header">
+                    <h2>Intelligence Report</h2>
+                    <button id="downloadBtn" class="icon-btn" title="Download PDF">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="7 10 12 15 17 10"></polyline>
+                            <line x1="12" y1="15" x2="12" y2="3"></line>
+                        </svg>
+                        <span>Export PDF</span>
+                    </button>
+                </div>
+                <div class="result-content" id="resultContent">
+                    <!-- Answer will be injected here -->
+                </div>
+            </section>
+        </main>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+
+</html>
